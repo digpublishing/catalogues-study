@@ -1,0 +1,63 @@
+/* Customize cover for report style */
+.quire-cover__overlay {
+  background-position-y: bottom; 
+}
+.hero-body .container.is-fluid {
+  position: relative;
+  padding: 40px 60px;
+  margin: 0 1rem;
+  bottom: 0;
+  background-color: rgb(100,0,100,0.5);
+  border-radius: .5rem;
+  text-align: center;
+  z-index: 1000;
+}
+.cover-button {
+  display: table;
+  font-size: 1.25em;
+  font-weight: bold;
+  margin: 2.5rem auto 1rem;
+  background-color: #cc00cc;
+  color: white;
+  border-width: 0;
+}
+.cover-button:hover {
+  background-color: #990099;
+  color: white;
+}
+.cover-links {
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  margin-top: .5rem;
+}
+.cover-links a {
+  color: white;
+  margin: 0 .75rem;
+  border-bottom: 1px dotted white;
+}
+.cover-links a:hover {
+  color: #cc00cc;
+  border-bottom: 1px solid #cc00cc;
+}
+.quire-cover__more .hero-more {
+  background-color: #990099;
+}
+@media screen and (max-width: 500px) {
+  .hero-body .container.is-fluid {
+    padding: 20px 30px;
+  }
+  .cover-links a {
+    display: table;
+    margin: .5rem auto;
+  }
+  .cover-links__divider {
+    display: none;
+  }
+}
+#cover .quire-page__content img {
+  max-height:4rem;
+  display: inline-block;
+  margin: 2rem 1rem;
+}
+
