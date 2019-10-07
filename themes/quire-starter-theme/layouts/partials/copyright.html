@@ -10,7 +10,9 @@
   {{- $imgDir := $.Scratch.Get "imageDir" -}}
   {{ range .Site.Data.publication.publisher }}
     {{- if .logo -}}
+    {{- if .url -}}<a href="{{ .url }}" target="_blank">{{ end }}
     <img src="{{ $imgDir | relURL }}/{{ .logo }}" class="quire-copyright__icon__logo" alt="logo" />
+    {{- if .url -}}</a>{{ end }}
     {{- end -}}
   {{ end }}
 
