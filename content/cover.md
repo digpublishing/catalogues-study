@@ -20,7 +20,7 @@ In undertaking this study, this team of four art institutions sought to answer t
 
 The team contracted [Rockman et al](https://rockman.com/), a consulting and research firm with experience evaluating online environments, to design and carry out this study. Surveys, web analytics, and focus groups were used to collect feedback from both current and potential users of the catalogues.
 
-![Getty logo](/img/logo-getty-333333.png) ![NGA logo](/img/logo-nga-333333.png)
+![AIC logo](/img/logo-aic-333333.png) ![Getty logo](/img/logo-getty-333333.png) ![NGA logo](/img/logo-nga-333333.png)
 
 {{< q-class "backmatter" >}}
 
