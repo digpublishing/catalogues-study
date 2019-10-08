@@ -1,4 +1,4 @@
-
+/* Customize cover for report style */
 .quire-cover__overlay {
   background-position-y: bottom; 
 }
@@ -55,21 +55,9 @@
     display: none;
   }
 }
-
 #cover .quire-page__content img {
   max-height:4rem;
   display: inline-block;
   margin: 2rem 1rem;
 }
 
-
-.quire-contents-list.list .section-item > .title {
-  /* font-weight: bold; */
-}
-.section-item {
-  /* border-top: 1px solid #cc00cc;
-  padding: 1em 0; */
-}
-.quire-page__content .menu-list > ul > .page-item .title a {
-  /* color: #777; */
-}
