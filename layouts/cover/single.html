@@ -44,8 +44,12 @@ Cover page layout. This controls the home page of the publication.
         </h1>
         
         {{ with .Site.Data.publication.description.one_line }}
-        <p class="reading-line">{{ . | markdownify }}</p>
+        <p class="cover-description">{{ . | markdownify }}</p>
         {{ end }}
+        
+        {{ with .Site.Data.publication.pub_date }}
+        <p class="cover-date">{{ dateFormat "January 2006" . }}</p>
+        {{ end }}      
         
         {{ if and (and (in .Page.Params.class "report-cover") (ne $.Site.Params.pdf true)) (ne $.Site.Params.epub true) }}
         <a class="button cover-button" href="/findings/">Key Findings</a>
