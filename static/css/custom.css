@@ -81,3 +81,44 @@
   margin: 2rem 1rem;
 }
 
+/* Center figure captions */
+.content figure .quire-figure__caption {
+  text-align: center;
+}
+
+/* Custom feature block element for pages */
+.feature-block {
+  border: 1px solid #cc00cc;
+  background-color: #ffeeff;
+}
+.feature-block__heading {
+  background-color: #990099;
+  color: #fff;
+  padding: 1rem;
+}
+.feature-block__heading strong {
+  color: #fff;
+}
+
+/* Stylize finding page to add bold color headings and remove list styling */
+#findings .quire-page__content ul {
+  margin-left: 0;
+  list-style-type: none;
+}
+#findings .quire-page__content ul li::before {
+  content: "";
+}
+#findings .quire-page__content ul p:first-child {
+  margin-bottom: 0;
+}
+#findings .quire-page__content ul p:first-child strong {
+  color: #990099;
+}
+
+
+.quire-page__content .content hr {
+  margin: 2.5rem 0;
+}
+.quire-page__content .content ul {
+  margin-left: 1rem;
+}
