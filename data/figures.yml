@@ -1,90 +1,121 @@
 figure_list:
-  - id: "dog1"
-    src: figures/lange.jpg
-    caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
-  - id: "dog2"
-    src: figures/evans.jpg
-    caption: "*Walker Evans, profile, hand up to face*, 1937."
-    credit: "Library of Congress Prints and Photographs Division"
-  - id: "fig-1"
-    label: "Figure 1"
-    src: figures/evans-legionnaire.jpg
-    caption: "Walker Evans. *[American Legionnaire]*, 1935. "
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-2"
-    label: "Figure 2"
-    src: figures/evans-sons.jpg
-    caption: "Walker Evans. *Sons of the American Legion, Bethlehem, Pennsylvania*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-3"
-    label: "Figure 3"
-    src: figures/evans-graveyard.jpg
-    caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-4"
-    label: "Figure 4"
-    src: figures/evans-hymns.jpg
-    caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-5"
-    label: "Figure 5"
-    src: figures/evans-burroughs.jpg
-    caption: "Walker Evans. *Floyd and Lucille Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-6"
-    label: "Figure 6"
-    src: figures/evans-washroom.jpg
-    caption: "Walker Evans. *Washroom in the Dog Run of the Burroughs Home, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-7"
-    label: "Figure 7"
-    src: figures/evans-child.jpg
-    caption: "Walker Evans. *Farmer's Child, Alabama / Othel Lee (Squeakie) Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-8"
-    label: "Figure 8"
-    src: figures/evans-refugee.jpg
-    caption: "Walker Evans. *Arkansas Flood Refugee*, 1937."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "lange-house"
-    src: figures/lange-house.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "evans-video"
-    src: figures/evans-video-still.jpg
-    media_id: BpGN0UUtqqU
-    media_type: youtube
-    caption: "A selection of Walker Evans photos from the across the United States of America, 1930s."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "photo-podcast"
-    media_id: 336879231
-    media_type: soundcloud
-    caption: "Echoing the work of Lange and Evans, contemporary photographer Chris Killip documents social landscapes and is known for a series of powerful images of struggling industrial communities in North East England."
-  - id: "mother"
-    src: figures/mother.jpg
-    caption: "Dorothea Lange, *Human Erosion in California / Migrant Mother*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
+  
+  - id: "chart-01"
+    src: charts/chart-01.png
+    description: User Sessions that Include Any Catalogue Page
     download: true
-  - id: "mother-b"
-    src: figures/mother-b.jpg
-    caption: "Dorothea Lange, alternate version of *Migrant Mother*, 1936."
-    credit: Library of Congress Prints and Photographs Division
-  - id: "mother-c"
-    src: figures/mother-c.jpg
-    caption: "Dorothea Lange, alternate version of *Migrant Mother*, 1936."
-    credit: Library of Congress Prints and Photographs Division
-  - id: "pickers"
-    src: figures/pickers.jpg
-    caption: "Dorothea Lange, *Pea Pickers, Nipomo, California*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "duo"
-    src: figures/duo.jpg
-    caption: "Walker Evans, *Bud Fields with His Wife Ivy, and His Daughter Ellen, Hale County, Alabama*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-  - id: "family"
-    src: figures/family.jpg
-    caption: "Walker Evans, *Burrough’s Family, Hale County, Alabama*, 1935."
-    credit: The J. Paul Getty Museum, Los Angeles
 
+  - id: "chart-02"
+    src: charts/chart-02.png
+    description: "User Sessions that Include Catalogue Homepage"
+    
+  - id: "chart-03"
+    src: charts/chart-03.png
+    description: "Occupation of Site Visitors"
+    caption: "(participants could select more than one)"
+
+  - id: "chart-04"
+    src: charts/chart-04.png
+    description: ""
+    
+  - id: "chart-05"
+    src: charts/chart-05.png
+    description: "Catalogue Visitors’ Relationships to the Museum"
+      
+  - id: "chart-06"
+    src: charts/chart-06.png
+    description: "Age of Visitors"
+    caption: "(AIC’s Monet catalogue is not currently collecting demographic analytics)"
+      
+  - id: "chart-07"
+    src: charts/chart-07.png
+    description: "New v. Returning Visitors"
+    
+  - id: "chart-08"
+    src: charts/chart-08.png
+    description: "Purpose for Visiting the Catalogues"  
+    caption: "(participants could select more than one)"
+  
+  - id: "chart-09"
+    src: charts/chart-09.png
+    description: "Top Traffic Sources for the Catalogues" 
+
+  - id: "chart-10"
+    src: charts/chart-10.png
+    description: "Top Referring Sites for Each Catalogue" 
+    
+  - id: "table-01"
+    src: tables/table-01.html
+    media_type: table
+    description: "Catalogue Presence in Academic Search Engines" 
+    
+  - id: "chart-11"
+    src: charts/chart-11.png
+    description: "Target Audience Familiarity with Printed and Digital Catalogues" 
+    
+  - id: "chart-12"
+    src: charts/chart-12.png
+    description: "How would you describe this resource?"
+    caption: "(participants could select more than one)"
+  
+  - id: "chart-13"
+    src: charts/chart-13.png
+    description: "Participants who decribed catalogue as “ebook”"
+  
+  - id: "chart-14"
+    src: charts/chart-14.png
+    description: "Participants who decribed catalogue as “web page”"
+    
+  - id: "chart-15"
+    src: charts/chart-15.png
+    description: "Did you find what you were looking for?"
+    
+  - id: "chart-16"
+    src: charts/chart-16.png
+    description: "Users’ Ratings of Catalogue Layout and Navigation"
+
+  - id: "screenshot-nga-01"
+    src: screenshot-nga-01.jpg
+    caption: "Navigational breadcrumb in NGA’s *Dutch Paintings* catalogue"
+  
+  - id: "screenshot-getty-01"
+    src: screenshot-getty-01.jpg
+    caption: "“Contents” button on *Roman Mosaics* homepage"  
+    
+  - id: "heatmap-aic"
+    src: heatmap-aic.jpg
+    caption: "Heatmap of *Monet Paintings and Drawings at the Art Institute of Chicago* homepage indicating where users are inclined to click first"
+    
+  - id: "heatmap-getty"
+    src: heatmap-getty.jpg
+    caption: "Heatmap of *Roman Mosaics in the J. Paul Getty Museum* homepage indicating where users are inclined to click first"
+  
+  - id: "heatmap-nga"
+    src: heatmap-nga.jpg
+    caption: "Heatmap of *Dutch Paintings of the 17<sup>th</sup> Century* homepage indicating where users are inclined to click first"
+    
+  - id: "heatmap-pma"
+    src: heatmap-pma.jpg
+    caption: "Heatmap of *The Johnson G. Johnson Collection: A History and Selected Works* homepage indicating where users are inclined to click first"
+      
+  - id: "chart-17"
+    src: charts/chart-17.png
+    description: "How easy/difficult is it to...?"
+
+  - id: "chart-18"
+    src: charts/chart-18.png
+    description: "Participants’ Ratings of Digital Tools"
+
+  - id: "chart-19"
+    src: charts/chart-19.png
+    description: "Tools That “Greatly Enhanced” User Experience"
+
+  - id: "table-02"
+    src: tables/table-02.html
+    media_type: table
+    description: "Tool Findability" 
+        
+    
+    
+
+      
