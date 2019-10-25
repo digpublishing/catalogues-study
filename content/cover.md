@@ -9,8 +9,9 @@ toc: false
 image: cover-nga-01.jpg
 ---
 
-This report presents findings from a study of scholarly digital catalogues published by the [Art Institute of Chicago](https://www.artic.edu/), the [J. Paul Getty Museum](http://), and the [National Gallery of Art](https://www.nga.gov), and the [Philadelphia Museum of Art](https://www.philamuseum.org/). Each of these institutions has forged new ground in museum publishing, taking the traditional print catalogue and reimagining it for an online environment. The catalogues selected for this study were each designed as digital-first, incorporating features to enhance the reading experience such as zoomable images and integration with the museums’ online collection pages. All were developed for a target audience of researchers, defined as content experts, other academic non-specialists, and college-level students. These projects tend to be distinguished from other types of web publications in that they originate from print publishing traditions and are specifically authored, published (and potentially revised) at a specific date, are highly visual, and include scholarly apparatus such as footnotes, bibliographies, and appendices.
-In undertaking this study, this team of four art institutions sought to answer the following questions:
+This report presents findings from a study of scholarly digital catalogues published by the [Art Institute of Chicago](https://www.artic.edu/), the [J. Paul Getty Museum](http://www.getty.edu/museum/), and the [National Gallery of Art](https://www.nga.gov), and the [Philadelphia Museum of Art](https://www.philamuseum.org/). Each of these institutions has forged new ground in museum publishing, taking the traditional print catalogue and reimagining it for an online environment. The catalogues selected for this study were each designed as digital-first, incorporating features to enhance the reading experience such as zoomable images and integration with the museums' online collection pages. All were developed for a target audience of researchers, defined as content experts, other academic non-specialists, and college-level students. These projects tend to be distinguished from other types of web publications in that they originate from print publishing traditions and are specifically authored, published (and potentially revised) at a specific date, are highly visual, and include scholarly apparatus such as footnotes, bibliographies, and appendices.
+
+In undertaking this study, the team sought to build off previous examinations of catalogues like these, such as the final report of the Online Scholarly Catalogue Initiative (OSCI) and evaluations of other individual catalogues. The goals of this study are not only to better understand the current landscape some years later, but also to do so in a comprehensive, cross-institutional manner and with a particular focus on the user. This study aims to answer questions such as:
 
 - Who is using the catalogues?
 - How can the catalogues be marketed effectively to their target audience?
@@ -18,9 +19,9 @@ In undertaking this study, this team of four art institutions sought to answer t
 - What content do users desire from these publications?
 - How can museums continue to push the boundaries of online publication?
 
-The team contracted [Rockman et al](https://rockman.com/), a consulting and research firm with experience evaluating online environments, to design and carry out this study. Surveys, web analytics, and focus groups were used to collect feedback from both current and potential users of the catalogues.
+The team contracted Rockman et al, an education consulting and research firm with experience evaluating online environments, to design and carry out this study. Researchers reviewed [background literature](#background-literature) on digital catalogues and interviewed museum staff to set the stage for the project. Surveys, web analytics, and focus groups were then used to collect feedback from both current and potential users of the catalogues. The result is a much more thorough understanding of digital catalogues from the user perspective that can help inform future catalogues produced by these museums and others.
 
-![AIC logo](/img/logo-aic-333333.png) ![Getty logo](/img/logo-getty-333333.png) ![NGA logo](/img/logo-nga-333333.png)
+![AIC logo](/img/logo-aic-333333.png) ![Getty logo](/img/logo-getty-333333.png) ![NGA logo](/img/logo-nga-333333.png) ![PMA logo](/img/logo-pma-333333.png)
 
 {{< q-class "backmatter" >}}
 
