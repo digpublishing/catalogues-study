@@ -45,7 +45,7 @@ publisher:
   - name: Philadelphia Museum of Art
     location: Philadelphia
     url: https://www.philamuseum.org/
-    logo:
+    logo: logo-pma.png
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -70,7 +70,7 @@ contributor_as_it_appears:
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2019 Rockman et al
+copyright: © 2019 Art Institute of Chicago
 
 license:
   name: Creative Commons Attribution 4.0 International License
