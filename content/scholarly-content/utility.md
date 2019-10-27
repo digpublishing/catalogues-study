@@ -68,7 +68,7 @@ Not all participants agreed on what gives a catalogue cohesion. One participant 
 
 Although most focus groups didn't dwell long on the temporal nature of the catalogues, one group raised some interesting concerns about the roles of traditional print catalogues and what might be lost if they take on a wholly digital format. Several members of this focus group were interested in exhibitions and art interpretation from a historiographical approach. For their work, print catalogues capture valuable information about a moment in history and how art was being discussed and displayed at that time:
 
-> I do research with catalogues a lot because I look at exhibitions theoretically, like as landscapes. So I do end up spending a lot of time in catalogues because that's the best way to reach that - the ephemera of what an exhibition was -- especially if it includes like notes on like programming and stuff.
+> I do research with catalogues a lot because I look at exhibitions theoretically, like as landscapes. So I do end up spending a lot of time in catalogues because that's the best way to reach that - the ephemera of what an exhibition was — especially if it includes like notes on like programming and stuff.
 
 \ 
 

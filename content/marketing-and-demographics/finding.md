@@ -16,4 +16,4 @@ Referrals (links to the catalogue posted elsewhere online) made up a smaller per
 
 {{< q-figure id="chart-10" >}}
 
-Knowing which sites are posting links to the catalogues can help these four institutions as well as others generate ideas of where to promote the catalogues. (A list of the top 10 referrers for the catalogues can be found in [Deeper Insights -- Top Referrers](#top-referring-sites).) Internal promotion can also help drive traffic, as the Getty's data shows and as one focus group participant [mentioned](#marketing-and-demographics) as well.
+Knowing which sites are posting links to the catalogues can help these four institutions as well as others generate ideas of where to promote the catalogues. (A list of the top 10 referrers for the catalogues can be found in [Deeper Insights — Top Referrers](#top-referring-sites).) Internal promotion can also help drive traffic, as the Getty's data shows and as one focus group participant [mentioned](#marketing-and-demographics) as well.

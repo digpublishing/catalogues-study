@@ -25,7 +25,7 @@ Jump to
 
 ---
 
-## Users' Relationships to the Museum -- Breakdown by Institution
+## Users' Relationships to the Museum — Breakdown by Institution
 
 According to pop-up survey results, the AIC catalogues appear to be receiving more traffic from their members and staff than the NGA, where 63% said they had no affiliation with the institution. Due to the small sample size of PMA respondents, it is difficult to draw any conclusions about the makeup of their visitors from the pop-up survey data.
 
@@ -33,7 +33,7 @@ According to pop-up survey results, the AIC catalogues appear to be receiving mo
 
 ---
 
-## Catalogue Layout and Navigation Scores -- Breakdown by Institution
+## Catalogue Layout and Navigation Scores — Breakdown by Institution
 
 Email survey respondents were asked to provide overall ratings on the catalogue they reviewed on its clarity of layout and ease of navigation. All four catalogues reviewed received fairly high scores, with no significant differences between them. This consistency in scores despite the variation in the catalogues suggests that users are adaptable to a range of designs.
 
@@ -63,7 +63,7 @@ Considering individual artworks are driving many users' interest in these digita
 
 ---
 
-## Tool Findability -- Differences Between Catalogues
+## Tool Findability — Differences Between Catalogues
 
 Email survey participants were asked to search for and use a variety of specific tools while exploring their assigned catalogue, and report back on both the ease of finding these tools and the ease of using them. For a variety of tools (but not all), the PMA's *Johnson* catalogue and the NGA's *Dutch Paintings* tended to perform better while the AIC's *Matisse* catalogue and the Getty's *Roman Mosaics* catalogue performed slightly worse.
 

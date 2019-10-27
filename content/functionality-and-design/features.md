@@ -14,7 +14,7 @@ The utility of the catalogues' special tools depends first on users' ability to 
 
 The findability of these special features is largely dependent on the unique design of each catalogue. The map feature of the Getty *Roman Mosaics* catalogue is especially prominent on the catalogue's homepage, so it's unsurprising that it received a high percentage of usage. The side-by-side image comparison viewers featured in the NGA and PMA's catalogues, in contrast, require some digging to find. Across all catalogues, however, most participants did hone in on the zoomable images, which further reinforces our finding that [images](#_Image_Tools) are of utmost important to the target audience.
 
-Email survey participants might have found the catalogues' special features through their free exploration, but they were also directed later in the survey to search specifically for image viewing tools, citation tools, and pdf downloads/print-friendly versions of the catalogues -- three features common across the four catalogues. They then rated the difficulty of finding and using these tools. Once participants knew a tool existed, they generally didn't find it hard to find. Participants in the focus groups, however, consistently said that if they had not been specifically directed to many of the tools in their homework exercise, they would not have found them in their own browsing. The challenge for the catalogues, therefore, is raising user awareness of these special features.
+Email survey participants might have found the catalogues' special features through their free exploration, but they were also directed later in the survey to search specifically for image viewing tools, citation tools, and pdf downloads/print-friendly versions of the catalogues — three features common across the four catalogues. They then rated the difficulty of finding and using these tools. Once participants knew a tool existed, they generally didn't find it hard to find. Participants in the focus groups, however, consistently said that if they had not been specifically directed to many of the tools in their homework exercise, they would not have found them in their own browsing. The challenge for the catalogues, therefore, is raising user awareness of these special features.
 
 {{< q-figure id="chart-17" >}}
 
@@ -22,7 +22,7 @@ The PMA's *Johnson Collection* catalogue and the NGA's *Dutch Paintings* catalog
 
 ### Tool Utility
 
-The catalogues special features -- such as citation tools, zoomable images, and pdf downloads -- tended to be received favorably by our study participants. When asked to give an overall rating of the catalogues' digital tools at the end of the survey, participants gave positive responses toward the "excellent" end of the scale.
+The catalogues special features — such as citation tools, zoomable images, and pdf downloads — tended to be received favorably by our study participants. When asked to give an overall rating of the catalogues' digital tools at the end of the survey, participants gave positive responses toward the "excellent" end of the scale.
 
 {{< q-figure id="chart-18" >}}
 
@@ -34,7 +34,7 @@ The PMA's Johnson catalogue is the only catalogue in this study that includes ar
 
 Of all the digital tools in the catalogues, focus group participants spent the most time discussing the image viewing features. Being able to view and manipulate images is of utmost importance to the catalogues' target audience:
 
-> I think if you're talking interactivity, anything that can help the scholar, the researcher understand the object better -- I love that.
+> I think if you're talking interactivity, anything that can help the scholar, the researcher understand the object better — I love that.
 
 Participants' number one priority in image tools was high resolution images that could also be downloaded. They were pleased by the quality provided by most of the catalogues, but occasionally annoyed when an image couldn't be downloaded or when they had to visit a separate page to download an image. Minute details are important to the target audience. One participant noted:
 

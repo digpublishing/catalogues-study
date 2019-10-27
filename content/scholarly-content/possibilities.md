@@ -36,10 +36,10 @@ Another participant requested a map and timeline feature that allows users to ad
 
 Participants also envisioned ways that image comparison tools could benefit scholars if they could reach across institutional boundaries, allowing researchers to virtually reunite objects from collections that have been divided or make scholarly comparisons of works across multiple museums:
 
-> Speaker 1: I mean, just comparisons are great because so many of these paintings -- especially if we get to provenance, and we can get a bunch of paintings that were once owned by one person, and we can have the ability to see them and see a taste for collecting that may not be possible in the current form because they've all been spread out. That would be a fantastic way that museums can use their properties for these greater connections.
+> Speaker 1: I mean, just comparisons are great because so many of these paintings — especially if we get to provenance, and we can get a bunch of paintings that were once owned by one person, and we can have the ability to see them and see a taste for collecting that may not be possible in the current form because they've all been spread out. That would be a fantastic way that museums can use their properties for these greater connections.
 
 \
 
 > Speaker 2: And things from a set. So much that I work on is broken up: assemblages or multiple pieces. I mean how much Medieval and Renaissance painting is multi-part stuff where the parts are in 8 million places? And significant comparisons. I mean, interesting comparisons. And hyperlink allows a museum (if they'll agree) to link to each other to make comparisons in a way that I think might be really stimulating to the museum essay as an art form and the online essay as an art form.
 
-The comment above makes an interesting point -- that expanding catalogues in these ways has potential benefits not just for the researchers who value the information they are providing but also for museums in allowing them to build new forms of arguments and move the field forward in innovative ways.
+The comment above makes an interesting point — that expanding catalogues in these ways has potential benefits not just for the researchers who value the information they are providing but also for museums in allowing them to build new forms of arguments and move the field forward in innovative ways.

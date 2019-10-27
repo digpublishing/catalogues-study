@@ -38,7 +38,7 @@ type: page
 
 - **PDFs and downloadable images are critical to users.**
 
-    While study participants were comfortable navigating the catalogues online, they also expressed a strong desire to access PDF versions of catalogue content as well as downloadable images. These features allow users to take notes offline and save images for presentations or research -- tasks that are ubiquitous in the work of the target audience..
+    While study participants were comfortable navigating the catalogues online, they also expressed a strong desire to access PDF versions of catalogue content as well as downloadable images. These features allow users to take notes offline and save images for presentations or research — tasks that are ubiquitous in the work of the target audience..
 
 - **Digital catalogues are valued for their ability to incorporate new information as research advances and for their potential to reach wider audiences.**
 

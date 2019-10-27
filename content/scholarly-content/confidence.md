@@ -70,7 +70,7 @@ All the same, users were very interested in knowing how to access earlier versio
 
 > That's what I really liked about the NGAs, um, website - that they had the archived earlier versions and you know, so that you could, you could track the, the history of that publication, that it was still all available, but you know, it was, you knew it was also very up to date.
 
-A few participants also called attention to the DOI numbers featured in the PMA catalogue. These individuals -- including a librarian and a museum professional with experience producing digital catalogues -- said that the DOI imprint gives them more faith that they will be able to refer back to this resource over time:
+A few participants also called attention to the DOI numbers featured in the PMA catalogue. These individuals — including a librarian and a museum professional with experience producing digital catalogues — said that the DOI imprint gives them more faith that they will be able to refer back to this resource over time:
 
 > So that to me engenders some trust. Even though citing online sources is thankfully more ubiquitous, I think having that DOI imprint...it informs others who might be reading a text that you've cited that it is a trusted resource.
 
