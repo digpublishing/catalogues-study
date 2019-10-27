@@ -122,3 +122,63 @@
 .quire-page__content .content ul {
   margin-left: 1rem;
 }
+
+
+.quire-page__content table {
+  font-size: .9rem;
+}
+.quire-figure__table {
+  border-width: 0px;
+}
+.quire-page__content .container .content table thead th,
+.quire-page__content .container .content table caption {
+  background-color: #990099;
+  color: white;
+}
+.quire-page__content .container .content table th {
+  font-weight: normal;
+}
+.quire-page__content .container .content table caption {
+  padding: .5rem;
+}
+.quire-page__content .container .content table caption strong {
+  font-size: 1.1rem;
+}
+.quire-page__content .container .content table tbody td {
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.quire-page__content .container .content table tbody td,
+.quire-page__content .container .content table tbody th {
+  border-width: 0px;
+  border-top: 1px solid #bbb;
+}
+.quire-page__content .container .content table tbody .table-section td,
+.quire-page__content .container .content table tbody .table-section th {
+  border-top-color: #990099;
+}
+.quire-page__content .container .content table tbody tr:last-of-type {
+  border-bottom: 1px solid #990099;
+}
+td.hglt-1 {
+  background-color: #ffeeff;
+}
+
+.page-links {
+  text-align: center;
+}
+.page-links > p:first-child  {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #990099;
+}
+.quire-page__content .container .content .page-links ul,
+.quire-page__content .container .content .page-links ul li {
+  margin-left: 0; 
+}
+.quire-page__content .container .content .page-links ul li {
+  margin-bottom: .5rem;
+}
+.quire-page__content .container .content .page-links ul li::before {
+  content: "";
+}

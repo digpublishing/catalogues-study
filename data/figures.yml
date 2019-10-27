@@ -114,8 +114,92 @@ figure_list:
     src: tables/table-02.html
     media_type: table
     description: "Tool Findability" 
+  
+  - id: "table-03"
+    src: tables/table-03.html
+    media_type: table
+    description: "Catalogue Engagement" 
         
-    
-    
+  - id: "chart-20"
+    src: charts/chart-20.png
+    description: "Average Number of Pages Viewed Per Session"
 
-      
+  - id: "chart-21"
+    src: charts/chart-21.png
+    description: "Average Session Duration"
+
+  - id: "chart-22"
+    src: charts/chart-22.png
+    description: "Sessions Lasting Over 10 Minutes"
+
+  - id: "chart-23"
+    src: charts/chart-23.png
+    description: "Participants’ Ratings of Text Features"
+  
+  - id: "chart-24"
+    src: charts/chart-24.png
+    description: "Is this resource something you would feel comfortable citing for youe work?"
+
+  - id: "chart-25"
+    src: charts/chart-25.png
+    description: "Reasons users don’t feel comfortable citing these catalogues"
+    
+  - id: "chart-26"
+    src: charts/chart-26.png
+    description: "Participants who would describe the catalogue as a “scholarly/academic resource”"  
+    
+  - id: "chart-27"
+    src: charts/chart-27.png
+    description: "Catalogue Visitors’ Relationships to the Museum — Differences by Museum"
+    
+  - id: "chart-28"
+    src: charts/chart-28.png
+    description: "Users’ Ratings of Catalogue Layout and Navigation — Differences by Museum"
+
+  - id: "table-04"
+    src: tables/table-04.html
+    media_type: table
+    description: "Top Landing Pages for the Digital Catalogues" 
+  
+  - id: "table-05"
+    src: tables/table-05.html
+    media_type: table
+    description: "Top Pages Viewed in the Digital Catalogues" 
+    
+  - id: "table-06"
+    src: tables/table-06.html
+    media_type: table
+    description: "Top Referring Sites for the Digital Catalogues" 
+    
+  - id: "chart-29"
+    src: charts/chart-29.png
+    description: "How easy/difficult is it to...?"
+    
+  - id: "screenshot-pma-01"
+    src: screenshot-pma-01.jpg
+    caption: "PMA *Johnson* catalogue with tool menu at right"
+  
+  - id: "screenshot-nga-02"
+    src: screenshot-nga-02.jpg
+    caption: "NGA *Dutch Paintings* catalogue with tools to the right of image and below"
+    
+  - id: "screenshot-aic-01"
+    src: screenshot-aic-01.jpg
+    caption: "AIC’s Matisse catalogue with grey menu bar at top"
+  
+  - id: "chart-30"
+    src: charts/chart-30.png
+    description: "Catalogue Web Structure – NGA v. PMA"
+  
+  - id: "table-07"
+    src: tables/table-07.html
+    media_type: table
+    description: "Digital Catalogues Selected for Analytics Review" 
+  
+  - id: "chart-31"
+    src: charts/chart-31.png
+    description: "Pop-Up Survey Responses" 
+  
+  - id: "chart-32"
+    src: charts/chart-32.png
+    description: "Email Survey Responses by Institution"          
