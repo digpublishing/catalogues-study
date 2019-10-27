@@ -62,7 +62,7 @@ As the quote above notes, seeing a proper amount of citations to support argumen
 
 ### Address the temporality of digital resources through version transparency and DOI.
 
-The email survey demonstrated that only a few participants had strong [concerns](/scholarly-content/confidence/) about citing the catalogues because of updates in the online environment. The rest have accepted that modern research relies on digital resources that may change over time:
+The email survey demonstrated that only a few participants had strong concerns about citing the catalogues because of updates in the online environment (see [Do users have confidence in the catalogues’ scholarship?]((/scholarly-content/confidence/)). The rest have accepted that modern research relies on digital resources that may change over time:
 
 > I don't know how that can be an issue in 2019 because what do we do but cite stuff on the web.
 

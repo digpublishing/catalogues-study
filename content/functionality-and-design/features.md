@@ -18,7 +18,7 @@ Email survey participants might have found the catalogues' special features thro
 
 {{< q-figure id="chart-17" >}}
 
-The PMA's *Johnson Collection* catalogue and the NGA's *Dutch Paintings* catalogue also tended to receive higher scores than the others on the findability and usability of its digital tools. Both catalogues group their tools together for easy access, which may be a reason for their appeal. (See [Appendix A: Further Analyses](/further-analyses/#tool-findability-differences-between-catalogues) for a further breakdown of differences in the catalogues' tools.)
+The PMA's *Johnson Collection* catalogue and the NGA's *Dutch Paintings* catalogue also tended to receive higher scores than the others on the findability and usability of its digital tools. Both catalogues group their tools together for easy access, which may be a reason for their appeal. (See [Appendix A: Further Analyses — Tool Findability](/further-analyses/#tool-findability-differences-between-catalogues) for a further breakdown of differences in the catalogues' tools.)
 
 ### Tool Utility
 

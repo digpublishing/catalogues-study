@@ -33,7 +33,7 @@ In fact, after recoding occupation data into target/non-target groups, only abou
 
 The pop-up survey also allowed visitors to identify as a visitor to the museum whose catalogue they were viewing, a member of that museum, or a staff member. Ten percent of the catalogue's users identified as staff, which may be lower than actual percentages if staff tend to ignore the pop-up survey (a scenario that seems likely). The catalogues therefore seem to have important value internally to the museums as well as externally.
 
-A third of the pop-up survey participants identified as visitors to that institution or members. The remaining 57% did not have any specific affiliation with the museum. The catalogues therefore seem to be used by a wide variety of visitors, including those who might have in-person experience with the collections and those who might only encounter them online. (See an institutional breakdown of museum affiliation in [Appendix A: Further Analyses](/further-analyses/#users-relationships-to-the-museum-breakdown-by-institution).)
+A third of the pop-up survey participants identified as visitors to that institution or members. The remaining 57% did not have any specific affiliation with the museum. The catalogues therefore seem to be used by a wide variety of visitors, including those who might have in-person experience with the collections and those who might only encounter them online. (See also [Appendix A: Further Analyses — User’s Relationships to the Museum by Institution](/further-analyses/#users-relationships-to-the-museum-breakdown-by-institution).)
 
 {{< q-figure id="chart-05" >}}
 

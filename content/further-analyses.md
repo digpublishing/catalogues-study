@@ -21,7 +21,7 @@ Jump to
 
 - [Tool Findability — Differences Between Catalogues](#tool-findability-differences-between-catalogues)
 
-- [The Unique Structure of the NGA's Online Editions](#the-unique-structure-of-the-ngas-online-editions)
+- [The Unique Structure of the NGA's Online Editions](#the-unique-structure-of-the-nga-s-online-editions)
 
 {{< /q-class >}}
 
@@ -45,7 +45,7 @@ Email survey respondents were asked to provide overall ratings on the catalogue 
 
 ## Top Landing Pages for the Catalogues
 
-Knowing where visitors land first when they enter the catalogues is important for understanding the user experience and providing proper navigation throughout the catalogues. The analytics reviewed for this study show that the bulk of users land first on the catalogues' homepages. The NGA's *Dutch Paintings* catalogue is again the exception owing to its [unique structure](#the-unique-structure-of-the-ngas-online-editions), which ties the catalogue into the museum's general collection pages.
+Knowing where visitors land first when they enter the catalogues is important for understanding the user experience and providing proper navigation throughout the catalogues. The analytics reviewed for this study show that the bulk of users land first on the catalogues' homepages. The NGA's *Dutch Paintings* catalogue is again the exception owing to its unique structure, which ties the catalogue into the museum's general collection pages (see [The Unique Structure of the NGA's Online Editions](#the-unique-structure-of-the-nga-s-online-editions) below).
 
 {{< q-figure id="table-04" >}}
 
@@ -53,7 +53,7 @@ Knowing where visitors land first when they enter the catalogues is important fo
 
 ## Top Pages Viewed in the Digital Catalogues
 
-Considering individual artworks are driving many users' interest in these digital catalogues, the team asked whether traffic to particular artwork entries is dominating their sites' overall traffic. A glance at the top ten pages for each catalogue shows this is not the case. At the most, a single object entry might account for up to 5% of the total pageviews received by a catalogue, and this is true only of the Getty's *Roman Mosaics* catalogue. This catalogue has fewer art entries overall, so single artworks necessarily receive a higher percentage of the traffic. In the other catalogues, single artworks only account for up to 3% of the total pageviews logged. Instead, the catalogues' homepages generally receive the most traffic (although significantly less for the NGA's catalogue, owing to its [unique structure](#the-unique-structure-of-the-ngas-online-editions)).
+Considering individual artworks are driving many users' interest in these digital catalogues, the team asked whether traffic to particular artwork entries is dominating their sites' overall traffic. A glance at the top ten pages for each catalogue shows this is not the case. At the most, a single object entry might account for up to 5% of the total pageviews received by a catalogue, and this is true only of the Getty's *Roman Mosaics* catalogue. This catalogue has fewer art entries overall, so single artworks necessarily receive a higher percentage of the traffic. In the other catalogues, single artworks only account for up to 3% of the total pageviews logged. Instead, the catalogues' homepages generally receive the most traffic, although significantly less for the NGA's catalogue, owing to its unique structure (see [The Unique Structure of the NGA's Online Editions](#the-unique-structure-of-the-nga-s-online-editions) below).
 
 {{< q-figure id="table-05" >}}
 
@@ -83,7 +83,7 @@ Both the NGA and PMA group their tools in a single spot, which appealed to parti
 
 ## The Unique Structure of the NGA's Online Editions
 
-Unlike the other catalogues in our study, the NGA's *Dutch Paintings* catalogue and all of their Online Editions incorporate art object pages from the museum's online collection as artwork entry pages in the catalogue, essentially allowing the pages to do double duty for the catalogue and online collection. This structure has a number of implications for the catalogue, its visitation, and how Google Analytics tracks traffic to the catalogue. The collections pages on the NGA website receive large numbers of visitors, which Google Analytics therefore interprets as catalogue traffic, regardless of whether visitors are aware of the catalogue. As a result, the *Dutch Paintings* catalogue appears to be receiving a much [higher level of traffic](/marketing-and-demographics/traffic/) than the other catalogues in this study. Its homepage, however, receives a much smaller percentage of traffic in relation to other pages in the catalogue and serves as the landing page (entry point) for only 7% of catalogue visitors. (See [Top Pages Viewed](#top-pages-viewed-in-the-digital-catalogues) and [Top Landing Pages](#top-landing-pages-for-the-catalogues).)
+Unlike the other catalogues in our study, the NGA's *Dutch Paintings* catalogue and all of their Online Editions incorporate art object pages from the museum's online collection as artwork entry pages in the catalogue, essentially allowing the pages to do double duty for the catalogue and online collection. This structure has a number of implications for the catalogue, its visitation, and how Google Analytics tracks traffic to the catalogue. The collections pages on the NGA website receive large numbers of visitors, which Google Analytics therefore interprets as catalogue traffic, regardless of whether visitors are aware of the catalogue. As a result, the *Dutch Paintings* catalogue appears to be receiving a much higher level of traffic than the other catalogues in this study (see [How much traffic are the catalogues receiving?](/marketing-and-demographics/traffic/)). Its homepage, however, receives a much smaller percentage of traffic in relation to other pages in the catalogue and serves as the landing page (entry point) for only 7% of catalogue visitors. (See [Top Pages Viewed](#top-pages-viewed-in-the-digital-catalogues) and [Top Landing Pages](#top-landing-pages-for-the-catalogues) above.)
 
 {{< q-figure id="chart-30" >}}
 

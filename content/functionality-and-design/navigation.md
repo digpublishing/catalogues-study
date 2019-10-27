@@ -14,13 +14,13 @@ The catalogues' layout and navigation also received fairly positive ratings at t
 
 {{< q-figure id="chart-16" >}}
 
-The fact that all four catalogues received similar scores for clarity of layout and ease of navigation suggests that although individuals might have varying preferences, on the whole users can adapt to quite different formats. (For individual catalogue scores, see [Appendix A: Further Analyses](/further-analyses/#catalogue-layout-and-navigation-scores-breakdown-by-institution).)
+The fact that all four catalogues received similar scores for clarity of layout and ease of navigation suggests that although individuals might have varying preferences, on the whole users can adapt to quite different formats. (For individual catalogue scores, see [Appendix A: Further Analyses — Catalogue Layout and Navigation Scores](/further-analyses/#catalogue-layout-and-navigation-scores-breakdown-by-institution).)
 
 When asked to comment on the catalogues' structure and navigation, several themes emerged from the responses of our focus group participants:
 
 ### Book-like navigation can feel constricting in a web environment.
 
-The AIC's Matisse catalogue gives users two options for navigation: 1) turning the catalogue page by page using arrow buttons, and 2) a Table of Contents sidebar that can be collapsed or expanded. Some participants relied on the arrows to turn the pages, which became cumbersome and didn't give the readers a sense of where they were at within the catalogue. The analytics data also shows evidence of this, in that pages earlier in the catalogue are receiving higher amounts of traffic. (See a list of top pages viewed under [Appendix A: Further Analyses](/further-analyses/#top-pages-viewed-in-the-digital-catalogues).) Even when readers were aware of the Table of Contents, they couldn't shake the feeling that the catalogue was imposing a linear direction on their reading:
+The AIC's Matisse catalogue gives users two options for navigation: 1) turning the catalogue page by page using arrow buttons, and 2) a Table of Contents sidebar that can be collapsed or expanded. Some participants relied on the arrows to turn the pages, which became cumbersome and didn't give the readers a sense of where they were at within the catalogue. The analytics data also shows evidence of this, in that pages earlier in the catalogue are receiving higher amounts of traffic. (See a list of top pages viewed under [Appendix A: Further Analyses — Top Pages](/further-analyses/#top-pages-viewed-in-the-digital-catalogues).) Even when readers were aware of the Table of Contents, they couldn't shake the feeling that the catalogue was imposing a linear direction on their reading:
 
 > I felt like there was no opportunity for me to explore the publication as I wanted as a reader. Instead, I felt pushed into selecting the side arrows to move sequentially and progressively through the publication. For me, this feels contrary to what the digital format should be.
 
@@ -58,4 +58,4 @@ Our study participants appreciated when each art museum provided links between d
 
 Allowing easy passage between collections pages and the catalogues, however, is one way to drive additional traffic to the catalogues. Researchers investigating an object might be unaware of a catalogue's existence until they are linked to it through a museum's collections pages. Maintaining these connections but also clearly demarcating the boundaries of collection/catalogue is therefore a challenge for the catalogues. Ensuring that links between the two open in new tabs may be one way to signal to users when they have left one resource and entered another.
 
-(For further discussion of how the NGA's catalogue structure affects the visitor experience and catalogue traffic, see [Appendix A: Further Analyses - The Unique Structure of the NGA's Online Editions](/further-analyses/#the-unique-structure-of-the-ngas-online-editions).)
+(For further discussion of how the NGA's catalogue structure affects the visitor experience and catalogue traffic, see [Appendix A: Further Analyses - The Unique Structure of the NGA's Online Editions](/further-analyses/#the-unique-structure-of-the-nga-s-online-editions).)
