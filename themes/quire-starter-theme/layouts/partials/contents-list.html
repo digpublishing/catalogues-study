@@ -72,8 +72,11 @@
 {{ $pages := $.contentsPage.Scratch.Get "pages" }}
 {{ $.contentsPage.Scratch.Delete "pages" }}
 
-{{- range first 1 (where $pages "Params.class" "in" "page-one") -}}
+{{- $pageOne := where $pages "Params.class" "in" "page-one" -}}
+{{- if $pageOne -}}
+{{- range first 1 $pageOne -}}
    {{- $.contentsPage.Scratch.Set "pageOneWeight" .Weight -}}
+{{- end -}}
 {{- end -}}
 
 <ul>
