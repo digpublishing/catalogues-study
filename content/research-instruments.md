@@ -9,12 +9,12 @@ type: page
 
 Download
 
-- [Pop-Up Survey](downloads/instruments/pop-up-survey.pdf)
+- [Pop-Up Survey (PDF)](downloads/instruments/pop-up-survey.pdf)
 
-- [Email Survey](downloads/instruments/email-survey.pdf)
+- [Email Survey (PDF)](downloads/instruments/email-survey.pdf)
 
-- [Focus Group Homework](downloads/instruments/focus-group-homework.pdf)
+- [Focus Group Homework (PDF)](downloads/instruments/focus-group-homework.pdf)
 
-- [Focus Group Discussion Questions](downloads/instruments/focus-group-discussion-questions.pdf)
+- [Focus Group Discussion Questions (PDF)](downloads/instruments/focus-group-discussion-questions.pdf)
 
 {{< /q-class >}}

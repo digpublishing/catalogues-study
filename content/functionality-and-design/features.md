@@ -12,13 +12,13 @@ The utility of the catalogues' special tools depends first on users' ability to 
 
 {{< q-figure id="table-02" >}}
 
-The findability of these special features is largely dependent on the unique design of each catalogue. The map feature of the Getty *Roman Mosaics* catalogue is especially prominent on the catalogue's homepage, so it's unsurprising that it received a high percentage of usage. The side-by-side image comparison viewers featured in the NGA and PMA's catalogues, in contrast, require some digging to find. Across all catalogues, however, most participants did hone in on the zoomable images, which further reinforces our finding that [images](#_Image_Tools) are of utmost important to the target audience.
+The findability of these special features is largely dependent on the unique design of each catalogue. The map feature of the Getty *Roman Mosaics* catalogue is especially prominent on the catalogue's homepage, so it's unsurprising that it received a high percentage of usage. The side-by-side image comparison viewers featured in the NGA and PMA's catalogues, in contrast, require some digging to find. Across all catalogues, however, most participants did hone in on the zoomable images, which further reinforces our finding that images are of utmost important to the target audience.
 
 Email survey participants might have found the catalogues' special features through their free exploration, but they were also directed later in the survey to search specifically for image viewing tools, citation tools, and pdf downloads/print-friendly versions of the catalogues — three features common across the four catalogues. They then rated the difficulty of finding and using these tools. Once participants knew a tool existed, they generally didn't find it hard to find. Participants in the focus groups, however, consistently said that if they had not been specifically directed to many of the tools in their homework exercise, they would not have found them in their own browsing. The challenge for the catalogues, therefore, is raising user awareness of these special features.
 
 {{< q-figure id="chart-17" >}}
 
-The PMA's *Johnson Collection* catalogue and the NGA's *Dutch Paintings* catalogue also tended to receive higher scores than the others on the findability and usability of its digital tools. Both catalogues group their tools together for easy access, which may be a reason for their appeal. (See [Deeper Insights](#_Tool_Findability_–) for a further breakdown of differences in the catalogues' tools.)
+The PMA's *Johnson Collection* catalogue and the NGA's *Dutch Paintings* catalogue also tended to receive higher scores than the others on the findability and usability of its digital tools. Both catalogues group their tools together for easy access, which may be a reason for their appeal. (See [Appendix A: Further Analyses](/further-analyses/#tool-findability-differences-between-catalogues) for a further breakdown of differences in the catalogues' tools.)
 
 ### Tool Utility
 

@@ -46,4 +46,4 @@ Included in this study:
 
 ---
 
-See [Background Literature](#background-literature) for an overview of findings from past evaluations of museum digital catalogues.
+See [Background Literature](/literature/) for an overview of findings from past evaluations of museum digital catalogues.

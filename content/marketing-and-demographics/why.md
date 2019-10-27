@@ -12,7 +12,7 @@ Additionally, a handful of participants said they were looking for high quality 
 
 > I really go with a pinpointed reason why I’m looking up an entry on an artwork - when I want to really look for a comparative image that I’m working on. I want to have that possibility to zoom in and really look closely to make comparisons with the images. So I think I use it in a very kind of flexible, fluid kind of research. And I know it’s immediate, it’s accessible, it’s right there. And that’s one of the things that I love about using them.
 
-(For more information, see [Scholarly Content](#what-kinds-of-content-and-information-are-most-useful-to-users).) That being said, one focus group participant commented that she usually turns to museum catalogues to investigate a specific artwork, which might then lead her to viewing other content in the publication:
+(For more information, see [Scholarly Content](/scholarly-content/utility/).) That being said, one focus group participant commented that she usually turns to museum catalogues to investigate a specific artwork, which might then lead her to viewing other content in the publication:
 
 > So when I go to print catalogs, I’m looking for what’s been written most recently about a certain work of art. And also their bibliography that goes along with it so I can get the most up to date info that I can. I can imagine using digital catalogs much in the same way. And then letting the individual images that I’m looking for kind of lead me to the rest of the content.
 

@@ -19,7 +19,7 @@ In undertaking this study, the team sought to build off previous examinations of
 - What content do users desire from these publications?
 - How can museums continue to push the boundaries of online publication?
 
-The team contracted Rockman et al, an education consulting and research firm with experience evaluating online environments, to design and carry out this study. Researchers reviewed [background literature](#background-literature) on digital catalogues and interviewed museum staff to set the stage for the project. Surveys, web analytics, and focus groups were then used to collect feedback from both current and potential users of the catalogues. The result is a much more thorough understanding of digital catalogues from the user perspective that can help inform future catalogues produced by these museums and others.
+The team contracted Rockman et al, an education consulting and research firm with experience evaluating online environments, to design and carry out this study. Researchers reviewed [background literature](/literature/) on digital catalogues and interviewed museum staff to set the stage for the project. Surveys, web analytics, and focus groups were then used to collect feedback from both current and potential users of the catalogues. The result is a much more thorough understanding of digital catalogues from the user perspective that can help inform future catalogues produced by these museums and others.
 
 ![AIC logo](/img/logo-aic-333333.png) ![Getty logo](/img/logo-getty-333333.png) ![NGA logo](/img/logo-nga-333333.png) ![PMA logo](/img/logo-pma-333333.png)
 

@@ -17,6 +17,8 @@ Jump to
 
 - [Top Pages Viewed in the Digital Catalogues](#top-pages-viewed-in-the-digital-catalogues)
 
+- [Top Referring Sites](#top-referring-sites)
+
 - [Tool Findability — Differences Between Catalogues](#tool-findability-differences-between-catalogues)
 
 - [The Unique Structure of the NGA's Online Editions](#the-unique-structure-of-the-ngas-online-editions)
@@ -81,7 +83,7 @@ Both the NGA and PMA group their tools in a single spot, which appealed to parti
 
 ## The Unique Structure of the NGA's Online Editions
 
-Unlike the other catalogues in our study, the NGA's *Dutch Paintings* catalogue and all of their Online Editions incorporate art object pages from the museum's online collection as artwork entry pages in the catalogue, essentially allowing the pages to do double duty for the catalogue and online collection. This structure has a number of implications for the catalogue, its visitation, and how Google Analytics tracks traffic to the catalogue. The collections pages on the NGA website receive large numbers of visitors, which Google Analytics therefore interprets as catalogue traffic, regardless of whether visitors are aware of the catalogue. As a result, the *Dutch Paintings* catalogue appears to be receiving a much [higher level of traffic](#how-much-traffic-are-the-catalogues-receiving) than the other catalogues in this study. Its homepage, however, receives a much smaller percentage of traffic in relation to other pages in the catalogue and serves as the landing page (entry point) for only 7% of catalogue visitors. (See [Top Pages Viewed](#_Top_Pages_Viewed_2) and [Top Landing Pages](#top-landing-pages-for-the-catalogues).)
+Unlike the other catalogues in our study, the NGA's *Dutch Paintings* catalogue and all of their Online Editions incorporate art object pages from the museum's online collection as artwork entry pages in the catalogue, essentially allowing the pages to do double duty for the catalogue and online collection. This structure has a number of implications for the catalogue, its visitation, and how Google Analytics tracks traffic to the catalogue. The collections pages on the NGA website receive large numbers of visitors, which Google Analytics therefore interprets as catalogue traffic, regardless of whether visitors are aware of the catalogue. As a result, the *Dutch Paintings* catalogue appears to be receiving a much [higher level of traffic](/marketing-and-demographics/traffic/) than the other catalogues in this study. Its homepage, however, receives a much smaller percentage of traffic in relation to other pages in the catalogue and serves as the landing page (entry point) for only 7% of catalogue visitors. (See [Top Pages Viewed](#top-pages-viewed-in-the-digital-catalogues) and [Top Landing Pages](#top-landing-pages-for-the-catalogues).)
 
 {{< q-figure id="chart-30" >}}
 
