@@ -10,7 +10,7 @@ An obvious advantages of digital catalogues over their print counterparts are th
 
 The utility of the catalogues' special tools depends first on users' ability to find these tools. To understand whether or not users are likely to encounter the catalogues' special features in a brief session, the email survey asked participants to spend three minutes in free exploration of their assigned catalogue. After their three minutes had elapsed, they were asked check off a list of the special features they had encountered. In three minutes of use, most of the special features listed had been discovered by less than half of the participants.
 
-{{< q-figure id="table-02" >}}
+{{< q-figure id="table-02" class="table" >}}
 
 The findability of these special features is largely dependent on the unique design of each catalogue. The map feature of the Getty *Roman Mosaics* catalogue is especially prominent on the catalogue's homepage, so it's unsurprising that it received a high percentage of usage. The side-by-side image comparison viewers featured in the NGA and PMA's catalogues, in contrast, require some digging to find. Across all catalogues, however, most participants did hone in on the zoomable images, which further reinforces our finding that images are of utmost important to the target audience.
 

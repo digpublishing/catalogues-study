@@ -18,7 +18,7 @@ When asked how they typically conduct their research, focus group participants f
 
 If users discover the catalogues via links from academic search engines or library databases, we would expect these to show up as referral traffic in Google Analytics. At the moment, however, the catalogues are not widely listed and show little traffic from sites such as Google Scholar and JSTOR. These sites provided guidance to publishers who would like their articles indexed, and adhering to their guidelines is one way museums could increase the visibility of their digital publications.[^1]<sup>,</sup>[^2]
 
-{{< q-figure id="table-01" >}}
+{{< q-figure id="table-01" class="table" >}}
 
 One librarian focus group participant mentioned [Primo](https://www.exlibrisgroup.com/products/primo-discovery-service/) as a tool that might give her patrons access to the catalogues. Primo is a discovery service for libraries that provides patrons access to a wide range of resources. It is particularly suited to discovering digital content and allowing users to drill down to specific information of interest. In order to meet their target audiences where they are conducting research, museums producing digital catalogues should look into academic search engine optimization (ASEO) to increase the findability of their online publications in these databases.
 

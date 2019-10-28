@@ -31,7 +31,12 @@ Jump to
 
 A number of strategies were considered when undertaking the analytics review for this study. The team weighed the pros and cons of looking at all of a museum's digital catalogues versus a specific subset and in the end chose to focus on a single catalogue per museum. Knowing that each of the catalogues produced by these museums is highly unique — not only in subject matter but in the context surrounding its creation, the way it may have been marketed, the notoriety of the art or artists within it, and so on — we hoped that by focusing on just one catalogue per museum we could reduce the number of confounding variables. The catalogues selected were each originally launched within the past five years, to avoid comparing old and new publications.
 
-{{< q-figure id="table-07" >}}
+| Digital Catalogues Selected for Analytics Review | Initial Launch Date |
+| ---- | ---- |
+| Monet Paintings and Drawings at the Art Institute of Chicago | 2014 |
+| Roman Mosaics in the J. Paul Getty Museum | 2016 |
+| Dutch Paintings of the Seventeenth Century (NGA) | 2014 | 
+| The John G. Johnson Collection: A History and Selected Works (PMA) | 2018 | 
 
 The time frame of data collection is also of importance for reviewing web analytics. The team considered focusing in on the first six months or first year after each catalogue's initial publication, but in the end opted to look at the same one-year time frame for all four catalogues — June 1, 2018 through June 1, 2019. Knowing that the landscape of digital catalogues has changed over time, the team wished to avoid comparing data from 2014 and 2019.
 

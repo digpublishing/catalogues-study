@@ -114,6 +114,7 @@ figure_list:
     src: tables/table-02.html
     media_type: table
     description: "Tool Findability" 
+    caption: Blank cells indicate that the catalogue does not feature that tool.
   
   - id: "table-03"
     src: tables/table-03.html
@@ -190,12 +191,7 @@ figure_list:
   - id: "chart-30"
     src: charts/chart-30.png
     description: "Catalogue Web Structure – NGA v. PMA"
-  
-  - id: "table-07"
-    src: tables/table-07.html
-    media_type: table
-    description: "Digital Catalogues Selected for Analytics Review" 
-  
+
   - id: "chart-31"
     src: charts/chart-31.png
     description: "Pop-Up Survey Responses" 

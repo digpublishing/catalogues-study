@@ -8,7 +8,7 @@ Defining a "typical" use session for the digital catalogues is a difficult task,
 
 Analytics data can provide some insights on the "average" visit, but also must be interpreted with care. For example, the AIC, NGA, and PMA catalogues selected for the analytics review averaged around four pages per visit, while the Getty's catalogue averaged slightly less. A lower number of pageviews might be interpreted as lower engagement with the catalogue, but it also might mean users are able to find what they need with fewer clicks. Average session duration can also easily be skewed by large numbers of sessions that last only a few seconds. Looking at the distribution of sessions of different durations is one way to look past the outliers.
 
-{{< q-figure id="table-03" >}}
+{{< q-figure id="table-03" class="table" >}}
 
 Furthermore, if we look just at those sessions that included a visit to the homepage, the length and depth of a visit is extended. As noted elsewhere, this might give a more accurate picture of those users who are intentionally using the catalogue as opposed to accidentally landing on a catalogue page while browsing the larger museum website. (See [How much traffic are the catalogues receiving?](/marketing-and-demographics/traffic/))
 

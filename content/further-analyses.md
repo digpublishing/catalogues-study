@@ -47,7 +47,7 @@ Email survey respondents were asked to provide overall ratings on the catalogue 
 
 Knowing where visitors land first when they enter the catalogues is important for understanding the user experience and providing proper navigation throughout the catalogues. The analytics reviewed for this study show that the bulk of users land first on the catalogues' homepages. The NGA's *Dutch Paintings* catalogue is again the exception owing to its unique structure, which ties the catalogue into the museum's general collection pages (see [The Unique Structure of the NGA's Online Editions](#the-unique-structure-of-the-nga-s-online-editions) below).
 
-{{< q-figure id="table-04" >}}
+{{< q-figure id="table-04" class="table" >}}
 
 ---
 
@@ -55,13 +55,13 @@ Knowing where visitors land first when they enter the catalogues is important fo
 
 Considering individual artworks are driving many users' interest in these digital catalogues, the team asked whether traffic to particular artwork entries is dominating their sites' overall traffic. A glance at the top ten pages for each catalogue shows this is not the case. At the most, a single object entry might account for up to 5% of the total pageviews received by a catalogue, and this is true only of the Getty's *Roman Mosaics* catalogue. This catalogue has fewer art entries overall, so single artworks necessarily receive a higher percentage of the traffic. In the other catalogues, single artworks only account for up to 3% of the total pageviews logged. Instead, the catalogues' homepages generally receive the most traffic, although significantly less for the NGA's catalogue, owing to its unique structure (see [The Unique Structure of the NGA's Online Editions](#the-unique-structure-of-the-nga-s-online-editions) below).
 
-{{< q-figure id="table-05" >}}
+{{< q-figure id="table-05" class="table" >}}
 
 --
 
 ## Top Referring Sites
 
-{{< q-figure id="table-06" >}}
+{{< q-figure id="table-06" class="table" >}}
 
 ---
 
