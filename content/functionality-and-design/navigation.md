@@ -18,7 +18,7 @@ The fact that all four catalogues received similar scores for clarity of layout 
 
 When asked to comment on the catalogues' structure and navigation, several themes emerged from the responses of our focus group participants:
 
-## Book-like navigation can feel constricting in a web environment.
+## Book-like navigation can feel constricting in a web environment
 
 The AIC's Matisse catalogue gives users two options for navigation: 1) turning the catalogue page by page using arrow buttons, and 2) a Table of Contents sidebar that can be collapsed or expanded. Some participants relied on the arrows to turn the pages, which became cumbersome and didn't give the readers a sense of where they were at within the catalogue. The analytics data also shows evidence of this, in that pages earlier in the catalogue are receiving higher amounts of traffic. (See a list of top pages viewed under [Appendix A: Further Analyses — Top Pages](/further-analyses/#top-pages-viewed-in-the-digital-catalogues).) Even when readers were aware of the Table of Contents, they couldn't shake the feeling that the catalogue was imposing a linear direction on their reading:
 
@@ -30,7 +30,7 @@ The AIC's Matisse catalogue gives users two options for navigation: 1) turning t
 
 This sentiment arose several times in the focus group discussions. Overall, participants expressed the desire to jump from place to place as their interest dictates and felt the layout of the Matisse catalogue hindered this.
 
-## Keep navigation tools obvious and well-labeled.
+## Keep navigation tools obvious and well-labeled
 
 Focus group participants generally seemed to prefer that the catalogues use more labels, even if it means occasionally sacrificing clean design. Not everyone noticed the "breadcrumb" provided in the NGA catalogue for navigating back to the homepage. Those who found it appreciated it, and those who did not complained about having to use the back arrow on their browsers.
 
@@ -40,17 +40,17 @@ Likewise, the "hamburger menu" (three small horizontal lines) that lead users to
 
 {{< q-figure id="screenshot-getty-01" >}}
 
-## Precise navigation is appreciated.
+## Precise navigation is appreciated
 
 When users want to navigate back to where they were previously in a publication, they want to be able to return to the precise spot on the page. This is an advantage of the NGA's *Dutch Paintings* catalogue as pointed out by one focus group participant. The back button on users' browsers returns them to the same spot on the page they had been viewing previously, rather than returning them to the top of the page in which case users would have to scroll down to find their place.
 
-## Homepage design can have a big influence on navigation.
+## Homepage design can have a big influence on navigation
 
 Email survey participants were asked what they would look for first when visiting a digital catalogue and where they would click to find it, and the resulting [heatmaps](/functionality-and-design/navigation/#heatmap-aic) are telling. The clean design of the Monet catalogue homepage means that visitors will be funneled in a limited number of directions. The Getty's page is longer, but still has limited entry points via bold, obvious buttons. The NGA's homepage has many links to lead users into the catalogue without a suggested hierarchy, and the heatmap shows that users are likely to click any number of places. The PMA's homepage is the longest and also has many potential entry points, but users are drawn most to the "Read More" button highlighted in red text, which will lead them into an introductory essay on the collection. A smaller percentage of users selected the "Publication Contents" link, which is less noticeable in black and white. Catalogue designers can therefore influence whether users will begin browsing a digital catalogue from the "front," refer quickly to a contents page, or dive directly into artwork entries and essays based on the layout of the homepage. Each may have pros and cons for the user experience, but designers must consider how to help users quickly get their bearings if they suddenly find themselves deep in content and seeking a way back.
 
 {{< q-figure-group id="heatmap-aic, heatmap-getty, heatmap-nga, heatmap-pma" grid="2" >}}
 
-## Paths between digital catalogues and their parent museum websites are useful and must be clearly marked.
+## Paths between digital catalogues and their parent museum websites are useful and must be clearly marked
 
 Our study participants appreciated when each art museum provided links between digital catalogue content and additional content on the host institutions' webpages, but these connections were also occasionally a source of confusion. The Getty, NGA, and PMA catalogues all provide links between the catalogue and their museums' collections pages. In the Getty and PMA catalogues, the collections pages open in a new tab on the user's browser. In the NGA catalogue, artwork entry pages are one and the same with the museum's collections pages. For all three of these catalogues, users had some difficulty distinguishing when they were within the catalogue and when they had left. If they knew they had left, they weren't always certain how to get back to the catalogue content:
 

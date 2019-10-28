@@ -6,7 +6,7 @@ type: page
 
 Throughout the focus group conversations, participants expressed a number of expectations for these catalogues by virtue of them being digital resources. Some of the most consistent sentiments shared include the following:
 
-## Digital catalogues can and should push beyond print limitations in terms of interactivity and navigation.
+## Digital catalogues can and should push beyond print limitations in terms of interactivity and navigation
 
 One thing clearly communicated by the focus group participants is that they want the catalogues to take advantage of the many affordances of the digital format and push beyond what printed books or ebooks can offer. This means including digital interactive features and allowing participants to navigate the text in different ways:
 
@@ -18,7 +18,7 @@ One thing clearly communicated by the focus group participants is that they want
 
 Although there will always be users who prefer books, participants didn't express the need for these catalogues to mimic that format. Those who prefer a hard-copy environment said they would simply download and print a pdf to read.
 
-## Digital catalogues can change over time to include new information and interpretations.
+## Digital catalogues can change over time to include new information and interpretations
 
 Focus group participants had strong expectations that digital catalogues would be updated as new information on the collections becomes available. Having access to the latest information on works was seen as a significant advantage of the digital format. On the whole, participants liked that digital catalogues are dynamic resources:
 
@@ -28,7 +28,7 @@ Focus group participants had strong expectations that digital catalogues would b
 
 > It feels like we don't have to have like a cutoff of what it has to look like in its finality. Like I wonder if digital catalogues should ever have like a final form. I think that's one of the limitations about thinking about past catalogues rather than some like new form of knowledge sharing.
 
-## Digital catalogues can reach wider audiences.
+## Digital catalogues can reach wider audiences
 
 One participant pointed out that print museum catalogues have a smaller audience than digital catalogues. The digital catalogues can be accessed easily by anyone who has an interest, whereas print catalogues require more effort to acquire and tend to be used only by scholars and researchers.
 
