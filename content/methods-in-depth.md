@@ -48,7 +48,7 @@ Once the catalogues and time frames of interest were selected, the team identifi
 
 ## Pop-Up Survey
 
-The pop-up survey was designed to use generic language which could apply to any of the institutions and any of their catalogues. The survey was built in Survey Monkey which produces coding that is easily embedded on any website. The NGA and AIC embedded the survey invitation on all of their catalogues (a total of six catalogues for the NGA and _ for AIC). The *Johnson* catalogue is the PMA's only catalogue, and the pop-up survey was also implemented there. Each institution placed a delay on their pop-up survey to allow users a chance to begin browsing the catalogue before receiving the survey invitation. The NGA chose a 10 second delay, while the PMA and AIC both used 20 second delays.
+The pop-up survey was designed to use generic language which could apply to any of the institutions and any of their catalogues. The survey was built in Survey Monkey which produces coding that is easily embedded on any website. The NGA and AIC embedded the survey invitation on all of their catalogues (a total of six catalogues for the NGA and fourteen for AIC). The *Johnson* catalogue is the PMA's only catalogue, and the pop-up survey was also implemented there. Each institution placed a delay on their pop-up survey to allow users a chance to begin browsing the catalogue before receiving the survey invitation. The NGA chose a 10 second delay, while the PMA and AIC both used 20 second delays.
 
 {{< q-figure id="chart-31" >}}
 

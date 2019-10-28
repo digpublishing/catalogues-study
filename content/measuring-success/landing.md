@@ -2,6 +2,6 @@
 title: Measuring Success
 weight: 400
 type: contents
-class: grid
+class: grid splash
 slug: .
 ---

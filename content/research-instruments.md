@@ -3,6 +3,8 @@ label: Appendix C
 title: Research Instruments
 weight: 1020
 type: page
+pdf: false
+epub: false
 ---
 
 {{< q-class "page-links" >}}

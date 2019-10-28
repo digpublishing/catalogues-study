@@ -36,18 +36,12 @@ The online edition is hosted on GitHub at https://digpublishing.github.io/catalo
 
 © 2019 Art Institute of Chicago
 
-{{< q-class "cc-icon" >}}
-<svg class="quire-copyright__icon">
-<switch>
-  <use xlink:href="#cc"></use>
-</switch>
-<switch>
-  <use xlink:href="#cc-by"></use>
-  <foreignObject width="135" height="30">
-      <img src="../img/icons/cc-by.png" alt="CC-BY" />
-  </foreignObject>
-</switch>
-</svg>
+{{< q-class "cc-logo--online" >}}
+![CC BY icon](/img/cc-by--333333.png)
+{{< /q-class >}}
+{{< q-class "cc-logo--print" >}}
+![CC BY icon](/img/cc-by--black.png)
 {{< /q-class >}}
 
-The text of this work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).

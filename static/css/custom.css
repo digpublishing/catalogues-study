@@ -11,10 +11,23 @@
   padding: 40px 60px;
   margin: 0 1rem;
   bottom: 0;
-  background-color: rgb(100,0,100,0.5);
+  background-color: rgb(100,0,100,0.7);
   border-radius: .5rem;
   text-align: center;
   z-index: 1000;
+}
+@media print {
+  .hero.is-fullheight .hero-body {
+    align-items: flex-start;
+  }
+  .hero-body .container.is-fluid {
+    background-color: #cc00cc;
+    margin: .875in auto 0;
+    max-width: 7.5in;
+  }
+  .quire-cover__hero .title {
+    margin-bottom: 1rem;
+  }
 }
 .cover-description,
 .cover-date {
@@ -28,6 +41,32 @@
   font-style: normal;
   font-size: 1.3rem;
   line-height: 1.8;
+}
+@media print {
+  .cover-description,
+  .cover-date {
+    font-size: 1.75rem;
+  }
+  .title-page .cover-description,
+  .title-page .cover-date {
+    color: #000;
+    font-size: 1.625rem;
+  }
+  .title-page .publisher * {
+    color: #000;
+  }
+  .title-page .publisher ul li:last-child {
+    margin-top: 1rem;
+  }
+  .title-page .cc-logo {
+    height: .25in;
+    margin-top: 1rem;
+  }
+  .title-page .cc-statement {
+    font-size: 1rem;
+    text-transform: none;
+    letter-spacing: 0;
+  }
 }
 .cover-button {
   display: table;
@@ -108,6 +147,9 @@
   margin-left: 0;
   list-style-type: none;
 }
+#findings .quire-page__content ul li {
+  margin-bottom: 2rem;
+}
 #findings .quire-page__content ul li::before {
   content: "";
 }
@@ -116,6 +158,8 @@
 }
 #findings .quire-page__content ul p:first-child strong {
   color: #990099;
+  font-size: 1.25rem;
+  line-height: 1;
 }
 
 /* More space around HRs */
@@ -235,6 +279,11 @@ td.hglt-8 {
 .quire-page__content .container .content .page-links ul li::before {
   content: "";
 }
+@media print {
+  .page-links {
+    display: none;
+  }
+}
 
 /* Adjust style on h2 to make regular case and a little smaller
    Many of the headings are full phrases (too much for big all caps) */
@@ -252,4 +301,44 @@ td.hglt-8 {
 }
 .quire-page__content .container .content ul li::before {
   color: #87857b;
+}
+
+.cc-logo--online img {
+  display: block;
+  height: 2rem;
+}
+.cc-logo--print img {
+  display: none;
+}
+@media print {
+  .cc-logo--online img {
+    display: none;
+  }
+  .cc-logo--print img {
+    display: block;
+    height: .375in;
+  }
+}
+
+
+@media print {
+  body * {
+    widows: 2;
+    orphans: 2;
+  }
+  .quire-contents-list.grid ul li .card.no-image .card-content {
+    font-size: 1.625rem;
+  }
+  .quire-contents-list.grid .menu-list ul .page-item {
+    background-color: #fff;
+  }
+  .quire-contents-list.grid ul li .card.no-image .card-content .title {
+    color: #990099;
+  }
+  .quire-contents-list.grid .page-item a::after {
+    margin-right: 0;
+  }
+  .quire-page--splash {
+    page: splash;
+  }
 }
