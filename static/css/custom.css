@@ -76,9 +76,12 @@
   }
 }
 #cover .quire-page__content img {
-  max-height:4rem;
+  max-height: 5.5rem;
   display: inline-block;
   margin: 2rem 1rem;
+}
+#cover .quire-page__content img:first-child {
+  margin-left: 0;
 }
 
 /* Center figure captions */
