@@ -11,10 +11,23 @@
   padding: 40px 60px;
   margin: 0 1rem;
   bottom: 0;
-  background-color: rgb(100,0,100,0.5);
+  background-color: rgb(100,0,100,0.7);
   border-radius: .5rem;
   text-align: center;
   z-index: 1000;
+}
+@media print {
+  .hero.is-fullheight .hero-body {
+    align-items: flex-start;
+  }
+  .hero-body .container.is-fluid {
+    background-color: #cc00cc;
+    margin: .875in auto 0;
+    max-width: 7.5in;
+  }
+  .quire-cover__hero .title {
+    margin-bottom: 1rem;
+  }
 }
 .cover-description,
 .cover-date {
@@ -28,6 +41,32 @@
   font-style: normal;
   font-size: 1.3rem;
   line-height: 1.8;
+}
+@media print {
+  .cover-description,
+  .cover-date {
+    font-size: 1.75rem;
+  }
+  .title-page .cover-description,
+  .title-page .cover-date {
+    color: #000;
+    font-size: 1.625rem;
+  }
+  .title-page .publisher * {
+    color: #000;
+  }
+  .title-page .publisher ul li:last-child {
+    margin-top: 1rem;
+  }
+  .title-page .cc-logo {
+    height: .25in;
+    margin-top: 1rem;
+  }
+  .title-page .cc-statement {
+    font-size: 1rem;
+    text-transform: none;
+    letter-spacing: 0;
+  }
 }
 .cover-button {
   display: table;
@@ -76,9 +115,12 @@
   }
 }
 #cover .quire-page__content img {
-  max-height:4rem;
+  max-height: 5.5rem;
   display: inline-block;
   margin: 2rem 1rem;
+}
+#cover .quire-page__content img:first-child {
+  margin-left: 0;
 }
 
 /* Center figure captions */
@@ -105,6 +147,9 @@
   margin-left: 0;
   list-style-type: none;
 }
+#findings .quire-page__content ul li {
+  margin-bottom: 2rem;
+}
 #findings .quire-page__content ul li::before {
   content: "";
 }
@@ -113,12 +158,187 @@
 }
 #findings .quire-page__content ul p:first-child strong {
   color: #990099;
+  font-size: 1.25rem;
+  line-height: 1;
 }
 
-
+/* More space around HRs */
 .quire-page__content .content hr {
   margin: 2.5rem 0;
 }
+
+/* Less margin on ULs */
 .quire-page__content .content ul {
   margin-left: 1rem;
+}
+
+/* Make the tables look good */
+.quire-page__content table {
+  font-size: .9rem;
+}
+.quire-figure__table {
+  border-width: 0px;
+}
+.quire-page__content .container .content table thead th,
+.quire-page__content .container .content table caption {
+  background-color: #990099;
+  color: white;
+}
+.quire-page__content .container .content table th {
+  font-weight: normal;
+}
+.quire-page__content .container .content table caption {
+  padding: .5rem;
+}
+.quire-page__content .container .content table caption strong {
+  font-size: 1.1rem;
+}
+.quire-page__content .container .content table tbody td {
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.quire-page__content .container .content table tbody td,
+.quire-page__content .container .content table tbody th {
+  border-width: 0px;
+  border-top: 1px solid #bbb;
+}
+.quire-page__content .container .content table tbody .table-section td,
+.quire-page__content .container .content table tbody .table-section th {
+  border-top-color: #990099;
+}
+.quire-page__content .container .content table tbody tr:last-of-type {
+  border-bottom: 1px solid #990099;
+}
+.quire-figure.table {
+  border-top-width: 0px;
+  border-bottom-width: 0px;
+  padding: 0;
+}
+/* Special highlight classes, from light to darker */
+td.hglt-1 {
+  background-color: #ffeeff;
+}
+td.hglt-2 {
+  background-color: #ffddff;
+}
+td.hglt-3 {
+  background-color: #ffccff;
+}
+td.hglt-4 {
+  background-color: #ffbbff;
+}
+td.hglt-5 {
+  background-color: #ffaaff;
+}
+td.hglt-6 {
+  background-color: #ff99ff;
+}
+td.hglt-7 {
+  background-color: #ff88ff;
+}
+td.hglt-8 {
+  background-color: #ff77ff;
+}
+/* Styling key on table-01 */
+.quire-page__content .content figure table + dl {
+  margin: .75rem 0;
+  padding: 0 .75rem;
+  color: #990099;
+  border-bottom: 1px solid #990099;
+}
+.quire-page__content .content figure table + dl dt {
+  float: left;
+  margin-right: 1rem;
+}
+.quire-page__content .content figure table + dl dd {
+  text-align: left;
+  margin-bottom: .75rem;
+}
+/* If a cell spans more than one row, vertically center the contents */
+.content table td[rowspan], 
+.content table th[rowspan] {
+  vertical-align: middle; 
+}
+
+/* Style special in-page navigation links for appendices */
+.page-links {
+  text-align: center;
+}
+.page-links > p:first-child  {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #990099;
+}
+.quire-page__content .container .content .page-links ul,
+.quire-page__content .container .content .page-links ul li {
+  margin-left: 0; 
+}
+.quire-page__content .container .content .page-links ul li {
+  margin-bottom: .5rem;
+}
+.quire-page__content .container .content .page-links ul li::before {
+  content: "";
+}
+@media print {
+  .page-links {
+    display: none;
+  }
+}
+
+/* Adjust style on h2 to make regular case and a little smaller
+   Many of the headings are full phrases (too much for big all caps) */
+.quire-page h2 {
+  text-transform: none;
+  font-size: 1.625rem;
+  line-height: 1.2;
+  padding-right: 2rem;
+}
+
+/* Color the custom HR and LI dots in shades matching the background color 
+   (#f3f2ee) and the generated blockquote graphic color (#d3d0c1) */
+.quire-page__content .container .content hr::after {
+  color: #adab9e;
+}
+.quire-page__content .container .content ul li::before {
+  color: #87857b;
+}
+
+.cc-logo--online img {
+  display: block;
+  height: 2rem;
+}
+.cc-logo--print img {
+  display: none;
+}
+@media print {
+  .cc-logo--online img {
+    display: none;
+  }
+  .cc-logo--print img {
+    display: block;
+    height: .375in;
+  }
+}
+
+
+@media print {
+  body * {
+    widows: 2;
+    orphans: 2;
+  }
+  .quire-contents-list.grid ul li .card.no-image .card-content {
+    font-size: 1.625rem;
+  }
+  .quire-contents-list.grid .menu-list ul .page-item {
+    background-color: #fff;
+  }
+  .quire-contents-list.grid ul li .card.no-image .card-content .title {
+    color: #990099;
+  }
+  .quire-contents-list.grid .page-item a::after {
+    margin-right: 0;
+  }
+  .quire-page--splash {
+    page: splash;
+  }
 }

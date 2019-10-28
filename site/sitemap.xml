@@ -2,107 +2,119 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://digpublishing.github.io/catalogues-study/</loc>
+    <loc>//localhost:1313/</loc>
   </url>
   
   <url>
-    <loc>https://digpublishing.github.io/catalogues-study/contents/</loc>
+    <loc>//localhost:1313/contents/</loc>
   </url>
   
   <url>
-    <loc>https://digpublishing.github.io/catalogues-study/findings/</loc>
+    <loc>//localhost:1313/findings/</loc>
   </url>
   
   <url>
-    <loc>https://digpublishing.github.io/catalogues-study/catalogues/</loc>
+    <loc>//localhost:1313/catalogues/</loc>
   </url>
   
   <url>
-    <loc>https://digpublishing.github.io/catalogues-study/literature/</loc>
+    <loc>//localhost:1313/literature/</loc>
   </url>
   
   <url>
-    <loc>https://digpublishing.github.io/catalogues-study/methodology/</loc>
+    <loc>//localhost:1313/methodology/</loc>
   </url>
   
   <url>
-    <loc>https://digpublishing.github.io/catalogues-study/marketing-and-demographics/</loc>
+    <loc>//localhost:1313/marketing-and-demographics/</loc>
   </url>
   
   <url>
-    <loc>https://digpublishing.github.io/catalogues-study/marketing-and-demographics/traffic/</loc>
+    <loc>//localhost:1313/marketing-and-demographics/traffic/</loc>
   </url>
   
   <url>
-    <loc>https://digpublishing.github.io/catalogues-study/marketing-and-demographics/who/</loc>
+    <loc>//localhost:1313/marketing-and-demographics/who/</loc>
   </url>
   
   <url>
-    <loc>https://digpublishing.github.io/catalogues-study/marketing-and-demographics/why/</loc>
+    <loc>//localhost:1313/marketing-and-demographics/why/</loc>
   </url>
   
   <url>
-    <loc>https://digpublishing.github.io/catalogues-study/marketing-and-demographics/finding/</loc>
+    <loc>//localhost:1313/marketing-and-demographics/finding/</loc>
   </url>
   
   <url>
-    <loc>https://digpublishing.github.io/catalogues-study/marketing-and-demographics/effective-marketing/</loc>
+    <loc>//localhost:1313/marketing-and-demographics/effective-marketing/</loc>
   </url>
   
   <url>
-    <loc>https://digpublishing.github.io/catalogues-study/marketing-and-demographics/familiarity/</loc>
+    <loc>//localhost:1313/marketing-and-demographics/familiarity/</loc>
   </url>
   
   <url>
-    <loc>https://digpublishing.github.io/catalogues-study/functionality-and-design/</loc>
+    <loc>//localhost:1313/functionality-and-design/</loc>
   </url>
   
   <url>
-    <loc>https://digpublishing.github.io/catalogues-study/functionality-and-design/first-impressions/</loc>
+    <loc>//localhost:1313/functionality-and-design/first-impressions/</loc>
   </url>
   
   <url>
-    <loc>https://digpublishing.github.io/catalogues-study/functionality-and-design/navigation/</loc>
+    <loc>//localhost:1313/functionality-and-design/navigation/</loc>
   </url>
   
   <url>
-    <loc>https://digpublishing.github.io/catalogues-study/functionality-and-design/features/</loc>
+    <loc>//localhost:1313/functionality-and-design/features/</loc>
   </url>
   
   <url>
-    <loc>https://digpublishing.github.io/catalogues-study/scholarly-content/</loc>
+    <loc>//localhost:1313/scholarly-content/</loc>
   </url>
   
   <url>
-    <loc>https://digpublishing.github.io/catalogues-study/scholarly-content/depth-and-breadth/</loc>
+    <loc>//localhost:1313/scholarly-content/depth-and-breadth/</loc>
   </url>
   
   <url>
-    <loc>https://digpublishing.github.io/catalogues-study/scholarly-content/utility/</loc>
+    <loc>//localhost:1313/scholarly-content/utility/</loc>
   </url>
   
   <url>
-    <loc>https://digpublishing.github.io/catalogues-study/scholarly-content/confidence/</loc>
+    <loc>//localhost:1313/scholarly-content/confidence/</loc>
   </url>
   
   <url>
-    <loc>https://digpublishing.github.io/catalogues-study/scholarly-content/value/</loc>
+    <loc>//localhost:1313/scholarly-content/value/</loc>
   </url>
   
   <url>
-    <loc>https://digpublishing.github.io/catalogues-study/scholarly-content/possibilities/</loc>
+    <loc>//localhost:1313/scholarly-content/possibilities/</loc>
   </url>
   
   <url>
-    <loc>https://digpublishing.github.io/catalogues-study/methods-in-depth/</loc>
+    <loc>//localhost:1313/measuring-success/</loc>
   </url>
   
   <url>
-    <loc>https://digpublishing.github.io/catalogues-study/research-instruments/</loc>
+    <loc>//localhost:1313/measuring-success/metrics/</loc>
   </url>
   
   <url>
-    <loc>https://digpublishing.github.io/catalogues-study/credits/</loc>
+    <loc>//localhost:1313/further-analyses/</loc>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/methods-in-depth/</loc>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/research-instruments/</loc>
+  </url>
+  
+  <url>
+    <loc>//localhost:1313/credits/</loc>
   </url>
   
 </urlset>
