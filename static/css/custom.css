@@ -241,3 +241,12 @@ td.hglt-8 {
   line-height: 1.2;
   padding-right: 2rem;
 }
+
+/* Color the custom HR and LI dots in shades matching the background color 
+   (#f3f2ee) and the generated blockquote graphic color (#d3d0c1) */
+.quire-page__content .container .content hr::after {
+  color: #adab9e;
+}
+.quire-page__content .container .content ul li::before {
+  color: #87857b;
+}
