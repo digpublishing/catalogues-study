@@ -44,7 +44,7 @@ Focus group participants spent more time critiquing the scholarship of the catal
 
 There are a number of ways, however, that the catalogues can instill more trust in their readers:
 
-### Digital catalogues should highlight authorship, peer review, and works cited.
+## Digital catalogues should highlight authorship, peer review, and works cited.
 
 Not all focus group participants paid attention to the authors of the catalogues. When individuals did notice the authors, however, this increased their level of trust in the scholarship:
 
@@ -60,7 +60,7 @@ As the quote above notes, seeing a proper amount of citations to support argumen
 
 > I didn't feel there was enough citation to support the arguments they were making...What we read from the NGA was written mostly by Arthur Wheelock. You can't argue with Arthur Wheelock. He is really the top of the top scholarly [sic], and the PMA didn't have top of the top scholars, but they were making arguments that to my mind were not sufficiently proven and therefore would not have been success in peer review literature.
 
-### Address the temporality of digital resources through version transparency and DOI.
+## Address the temporality of digital resources through version transparency and DOI.
 
 The email survey demonstrated that only a few participants had strong concerns about citing the catalogues because of updates in the online environment (see [Do users have confidence in the catalogues’ scholarship?]((/scholarly-content/confidence/)). The rest have accepted that modern research relies on digital resources that may change over time:
 

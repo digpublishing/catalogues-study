@@ -6,7 +6,7 @@ type: page
 
 An obvious advantages of digital catalogues over their print counterparts are the variety of technological tools that can be built into the interface that allow users to interact beyond just reading text and looking at static images. These digital catalogues have a range of features designed to enrich the user experience, including but not limited to: special citation generators, zoomable images, sculptures that can rotated 360°, audio/video content, and side-by-side image comparison tools. Each of these special features takes considerable time and energy to create, so the team asked, "Do users find these tools helpful? Are they worth the investment?"
 
-### Tool Findability
+## Tool Findability
 
 The utility of the catalogues' special tools depends first on users' ability to find these tools. To understand whether or not users are likely to encounter the catalogues' special features in a brief session, the email survey asked participants to spend three minutes in free exploration of their assigned catalogue. After their three minutes had elapsed, they were asked check off a list of the special features they had encountered. In three minutes of use, most of the special features listed had been discovered by less than half of the participants.
 
@@ -20,7 +20,7 @@ Email survey participants might have found the catalogues' special features thro
 
 The PMA's *Johnson Collection* catalogue and the NGA's *Dutch Paintings* catalogue also tended to receive higher scores than the others on the findability and usability of its digital tools. Both catalogues group their tools together for easy access, which may be a reason for their appeal. (See [Appendix A: Further Analyses — Tool Findability](/further-analyses/#tool-findability-differences-between-catalogues) for a further breakdown of differences in the catalogues' tools.)
 
-### Tool Utility
+## Tool Utility
 
 The catalogues special features — such as citation tools, zoomable images, and pdf downloads — tended to be received favorably by our study participants. When asked to give an overall rating of the catalogues' digital tools at the end of the survey, participants gave positive responses toward the "excellent" end of the scale.
 

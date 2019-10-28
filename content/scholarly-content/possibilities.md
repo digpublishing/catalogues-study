@@ -6,7 +6,7 @@ type: page
 
 Focus group participants freely admitted that they have become spoiled as more and more academic resources become available online and publications such as these catalogues have made valuable information and images open access to the public. They talked about how much the nature of research has changed over the past twenty years and how quickly their expectations also change as new tools become available. When reflecting on where these digital catalogues might go in future years, the following ideas emerged from the conversations:
 
-### Digital catalogues should reach beyond their own museums to make connections with other institutions and scholarship.
+## Digital catalogues should reach beyond their own museums to make connections with other institutions and scholarship.
 
 Focus group participants pointed out that a major advantage of putting catalogues online is the ability to link the catalogues to content anywhere else on the web. Although the catalogues reference work beyond their institutions, participants wanted to see these references take the form of live links so that researchers can continue to explore a topic beyond the boundaries of a single institution:
 
@@ -18,7 +18,7 @@ The Getty catalogue was praised by one participant for actually showing objects 
 
 Participants criticized other institutions and publications that are too self-referential or digital works that don't allow interaction. The [Heilbrunn Timeline](https://www.metmuseum.org/toah/) developed by the MET was mentioned as an example of an innovative online scholarly resource, but one which would be much improved if it was not restricted to internal use only. Our participants felt strongly that digital catalogues and museums owe it to the field to make connections beyond their own walls.
 
-### Catalogues from multiple institutions could increase usability by incorporating standardized conventions.
+## Catalogues from multiple institutions could increase usability by incorporating standardized conventions.
 
 Some focus group participants also expressed a hope that there will be a standardization across different institutions in how digital catalogues are presented:
 
@@ -26,7 +26,7 @@ Some focus group participants also expressed a hope that there will be a standar
 
 Many researchers have embraced citation management tools such as EndNote and Zotero, and to serve these audiences many scholarly databases now allow users to download references directly to their personal citation libraries. Incorporating standardized features such as these across institutions could greatly improve the user experience and perhaps make users more inclined to seek out digital catalogues as scholarly resources.
 
-### Interactive tools that allow users to add their own information could be used to enhance individual research and encourage scholarly discourse.
+## Interactive tools that allow users to add their own information could be used to enhance individual research and encourage scholarly discourse.
 
 When asked about other ways they might like to interact with the catalogues, participants had many ideas on ways catalogue tools could be expanded to serve the individual user better but also to encourage dialogue between researchers.
 

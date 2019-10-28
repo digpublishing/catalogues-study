@@ -232,3 +232,12 @@ td.hglt-8 {
 .quire-page__content .container .content .page-links ul li::before {
   content: "";
 }
+
+/* Adjust style on h2 to make regular case and a little smaller
+   Many of the headings are full phrases (too much for big all caps) */
+.quire-page h2 {
+  text-transform: none;
+  font-size: 1.625rem;
+  line-height: 1.2;
+  padding-right: 2rem;
+}
