@@ -4,7 +4,7 @@ weight: 150
 type: page
 ---
 
-Analytics data collected across four catalogues (one from each institution) shows that the vast majority of visitors found the source through an organic search or direct access. The balance of these two sources, however, varied greatly by institution. The high percentage of direct traffic to the PMA catalogue may be due internal staff dominating use of the catalogue in the early months after its launch, but IP address filters would have to be added to determine if this is in fact the case.
+Analytics data collected across four catalogues (one from each institution) shows that the vast majority of visitors found the source through an organic search or direct access. The balance of these two sources, however, varied greatly by institution. The high percentage of direct traffic to the PMA catalogue may be due to internal staff dominating use of the catalogue in the early months after its launch, but IP address filters would have to be added to determine if this is in fact the case.
 
 {{< q-figure id="chart-09" >}}
 

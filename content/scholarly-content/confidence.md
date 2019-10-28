@@ -4,7 +4,7 @@ weight: 330
 type: page
 ---
 
-Most email survey participants expressed trust in the catalogues' content, with no significant differences between the four catalogues reviewed. Many noted that the names of the four institutions instill trust that the text in the catalogues has scholarly value. Some participants may also have discovered that the catalogues (with the exception of the Johnson publication) are peer-reviewed, but they were not alerted to this fact and focus group discussions suggested most users don't find this information in a brief session. Despite this, 80% of survey participants said they would feel comfortable citing the catalogue in their work.
+Most email survey participants expressed trust in the catalogues' content, with no significant differences between the four catalogues reviewed. Many noted that the names of the four institutions instill trust that the text in the catalogues has scholarly value. Some participants may also have discovered that the catalogues (with the exception of the Johnson publication) are peer-reviewed, but they were not alerted to this fact, and focus group discussions suggested most users don't find this information in a brief session. Despite this, 80% of survey participants said they would feel comfortable citing the catalogue in their work.
 
 {{< q-figure id="chart-24" >}}
 
@@ -40,7 +40,7 @@ Focus group participants spent more time critiquing the scholarship of the catal
 
 \
 
-> In some ways it's like museum wall texts [exhibit labels], and so you don't know if it's being quirky or not - you know, if they've been told, "Don't be too controversial," or "Don't give your opinion." On the other hand, it may be completely out to lunch.
+> In some ways it's like museum wall texts [exhibit labels], and so you don't know if it's being quirky or not—you know, if they've been told, "Don't be too controversial," or "Don't give your opinion." On the other hand, it may be completely out to lunch.
 
 There are a number of ways, however, that the catalogues can instill more trust in their readers:
 
@@ -70,7 +70,7 @@ All the same, users were very interested in knowing how to access earlier versio
 
 > That's what I really liked about the NGAs, um, website - that they had the archived earlier versions and you know, so that you could, you could track the, the history of that publication, that it was still all available, but you know, it was, you knew it was also very up to date.
 
-A few participants also called attention to the DOI numbers featured in the PMA catalogue. These individuals — including a librarian and a museum professional with experience producing digital catalogues — said that the DOI imprint gives them more faith that they will be able to refer back to this resource over time:
+A few participants also called attention to the DOI numbers featured in the PMA catalogue. These individuals—including a librarian and a museum professional with experience producing digital catalogues—said that the DOI imprint gives them more faith that they will be able to refer back to this resource over time:
 
 > So that to me engenders some trust. Even though citing online sources is thankfully more ubiquitous, I think having that DOI imprint...it informs others who might be reading a text that you've cited that it is a trusted resource.
 

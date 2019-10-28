@@ -6,7 +6,7 @@ type: page
 
 ## Art Institute of Chicago
 
-The AIC debuted its first digital catalogue, *Monet Paintings and Sculpture at the Art Institute of Chicago*, in 2014 and has published ten to date. The AIC was a participant in the early Getty-funded Online Scholarly Catalogue Initiative (OSCI) and has developed all of its catalogues on the Drupal-based OSCI toolkit platform. The catalogues selected for this study are all peer-reviewed, entry-based publications featuring curatorial and conservation texts on works in the museum's collection. The OSCI toolkit platform has enabled the use of zoomable images, 360-degree spins, layered and annotated images, videos and RTI interactive images in these catalogues. The publications have been viewed by over 125,000 users since their inception, according to the Google Analytics. The AIC intends to continue publishing collection catalogues digitally, but may need to find a new platform with which to do so in the near future, so the results of this study will inform that next step.
+The Art Institute of Chicago (AIC) debuted its first digital catalogue, *Monet Paintings and Sculpture at the Art Institute of Chicago*, in 2014 and has published fourteen to date. The AIC was a participant in the early Getty-funded Online Scholarly Catalogue Initiative (OSCI) and has developed all of its catalogues on the Drupal-based OSCI toolkit platform. The catalogues selected for this study are all peer-reviewed, entry-based publications featuring curatorial and conservation texts on works in the museum's collection. The OSCI toolkit platform has enabled the use of zoomable images, 360-degree spins, layered and annotated images, videos, and RTI interactive images in these catalogues. The publications have been viewed by more than 125,000 users since their inception, according to the Google Analytics. The AIC intends to continue publishing collection catalogues digitally, but may need to find a new platform with which to do so in the near future, so the results of this study will inform that next step.
 
 [https://www.artic.edu/digital-publications](https://www.artic.edu/digital-publications)
 
@@ -15,18 +15,6 @@ Included in this study:
 - [*Matisse Paintings, Works on Paper, Sculpture, and Textiles at the Art Institute of Chicago*](https://www.artic.edu/digital-publications/matisse-at-the-art-institute-of-chicago)
 
 - [*Monet Paintings and Drawings at the Art Institute of Chicago*](https://www.artic.edu/digital-publications/matisse-at-the-art-institute-of-chicago)
-
----
-
-## Philadelphia Museum of Art
-
-The PMA released its first online catalogue, *The John G. Johnson Collection: A History and Selected Works*, in 2018. It was informed by benchmarking of previous OSCI projects as well as user surveys of the target audience, and by formative evaluation (user testing) during its development. It is integrated into the museum's website, drawing some data via an API from The Museum System (TMS) collections database. It also integrates digitized archival materials from the museum's Library and Archives. It published just one small portion of a larger collection, and the intention is to continue to add content to the publication over time; it is also intended to be a model for scholarly digital publications on other parts of the museum's collections.
-
-[https://philamuseum.org/publications/](https://philamuseum.org/publications/)
-
-Included in this study:
-
-- [*The John G. Johnson Collection: A History and Selected Works*](https://publications.philamuseum.org/jgj/vol1)
 
 ---
 
@@ -51,3 +39,16 @@ The National Gallery of Art launched its Online Editions (OE) platform in 2014 a
 Included in this study:
 
 - [*Dutch Paintings of the Seventeenth Century*](https://www.nga.gov/research/online-editions/17th-century-dutch-paintings.html)
+
+--- 
+
+## Philadelphia Museum of Art
+
+The PMA released its first online catalogue, *The John G. Johnson Collection: A History and Selected Works*, in 2018. It was informed by benchmarking of previous OSCI projects as well as user surveys of the target audience, and by formative evaluation (user testing) during its development. It is integrated into the museum's website, drawing some data via an API from The Museum System (TMS) collections database. It also integrates digitized archival materials from the museum's Library and Archives. It published just one small portion of a larger collection, and the intention is to continue to add content to the publication over time; it is also intended to be a model for scholarly digital publications on other parts of the museum's collections.
+
+[https://philamuseum.org/publications/](https://philamuseum.org/publications/)
+
+Included in this study:
+
+- [*The John G. Johnson Collection: A History and Selected Works*](https://publications.philamuseum.org/jgj/vol1)
+

@@ -6,7 +6,7 @@ type: page
 
 A general concern among study participants was that digital catalogues are not easy to find using their typical research habits:
 
-> I find that these catalogs often don't come up in Google searches. And so if you don't know it exists, you're not going to find it and you're not going to know it's there as a resource.
+> I find that these catalogues often don't come up in Google searches. And so if you don't know it exists, you're not going to find it and you're not going to know it's there as a resource.
 
 \
 
@@ -14,7 +14,7 @@ A general concern among study participants was that digital catalogues are not e
 
 When asked how they typically conduct their research, focus group participants frequently mentioned Google Scholar and the library databases of their home institutions. One focus group participant who is a librarian for an art institution said that from her perspective, these digital catalogues were *easier* to locate than their print equivalents:
 
-> I see the digital content and the format scheme very promising for discovery... We have a Primo discovery layer that can find these kinds of publications and with more granularity than it would be with any sort of printed catalog. And I think also just for reference in general and provenance research and so on, this material is just from my point of view, much more easy to discover and use.
+> I see the digital content and the format scheme very promising for discovery... We have a Primo discovery layer that can find these kinds of publications and with more granularity than it would be with any sort of printed catalogue. And I think also just for reference in general and provenance research and so on, this material is just from my point of view, much more easy to discover and use.
 
 If users discover the catalogues via links from academic search engines or library databases, we would expect these to show up as referral traffic in Google Analytics. At the moment, however, the catalogues are not widely listed and show little traffic from sites such as Google Scholar and JSTOR. These sites provided guidance to publishers who would like their articles indexed, and adhering to their guidelines is one way museums could increase the visibility of their digital publications.[^1]<sup>,</sup>[^2]
 

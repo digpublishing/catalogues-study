@@ -28,7 +28,7 @@ A participant in another group made a similar comment, noting that many catalogu
 
 Users don't always expect to see scholarly essays in museum catalogues (see [What kinds of content and information are most useful to users?](/scholarly-content/utility/#users-see-variability-in-what-museum-catalogues-contain-and-don-t-always-expect-scholarly-essays) for more info), but when they are present and done well they are appreciated. When asked if museums should focus on providing information on single artworks or making thematic comparisons, one participant commented:
 
-> I feel like it's the job of a museum and, and certainly the curators to interpret the objects that are there and put them in context with other objects. So I would hope for more kind of - online exhibition is the wrong word per se - but that kind of approach to putting content out there. So I think the permanent collection is key, but contextualizing the permanent collection is also really important and makes it relevant to the general public and other scholars.
+> I feel like it's the job of a museum and, and certainly the curators to interpret the objects that are there and put them in context with other objects. So I would hope for more kind of—online exhibition is the wrong word per se—but that kind of approach to putting content out there. So I think the permanent collection is key, but contextualizing the permanent collection is also really important and makes it relevant to the general public and other scholars.
 
 One focus group spent some time critiquing the ways museum scholars interpret objects for exhibitions and publications. This group, which consisted primarily of graduate students, said they didn't always trust the scholarship of museum catalogues and suspected that the writing contains more biases than peer-reviewed articles. One individual noted that the language in catalogues can sometimes sound outdated, such as when artists are praised for their "genius." Another commented that the museum that employs a curator can have an invisible influence on their writing. Despite these criticisms, one professor ended the conversation by giving these scholars and their works credit:
 
@@ -36,7 +36,7 @@ One focus group spent some time critiquing the ways museum scholars interpret ob
 
 Focus group participants also wanted to see interpretation within the artwork entries. One focus group participant expressed disappointment that the Matisse catalogue focused more heavily on technical information and featured less in the way of scholarly interpretation:
 
-> To me that seemed like the weakest one of all of them, just because, you know, there wasn't much interpretation. There was kind of description, and then there was so much technical information from the conservation perspective, which you know, I guess I was wondering to whom was this a digital catalog directed?
+> To me that seemed like the weakest one of all of them, just because, you know, there wasn't much interpretation. There was kind of description, and then there was so much technical information from the conservation perspective, which you know, I guess I was wondering to whom was this a digital catalogue directed?
 
 All of the catalogues produced by the Art Institute of Chicago take an "object-centered" approach in order to highlight artistic process, and the heavy focus on technical and conservation information is an intentional decision by the team that produced these catalogues.[^1] If this intention is not clearly indicated for readers, they may be left wondering as this participant was.
 
@@ -44,7 +44,7 @@ All of the catalogues produced by the Art Institute of Chicago take an "object-c
 
 Heavily technical information on artworks, such as conservation information, is not relevant to the work of every catalogue user, but those who need it note that museums catalogues are one of the only places to find such information:
 
-> I always appreciate the technical information because that's something you're not going to get from any sort of peer reviewed journal. You're not going to get it from anywhere else but from the museum.
+> I always appreciate the technical information because that's something you're not going to get from any sort of peer-reviewed journal. You're not going to get it from anywhere else but from the museum.
 
 \ 
 
@@ -52,7 +52,7 @@ Heavily technical information on artworks, such as conservation information, is 
 
 Another participant pointed out that technical information and interpretive information complement each other and are useful to find together in a single resource. A curator who expressed an interest in artistic process stated she wanted both from museum catalogues:
 
-> The technical can really help inform maybe other aspects of the text...it can help inform and give you a really fuller, picture - you know, how the artist's process played out in a certain situation. It's bringing together the cooperation of art history and technical studies.
+> The technical can really help inform maybe other aspects of the text...it can help inform and give you a really fuller, picture—you know, how the artist's process played out in a certain situation. It's bringing together the cooperation of art history and technical studies.
 
 That being said, some participants requested that technical information be organized such that users can navigate past it easily if they are looking for other types of text. A few participants were turned off by the amount of technical detail included in the Matisse catalogue, for example, even though this information was praised by others as extremely useful.
 
@@ -68,11 +68,11 @@ Not all participants agreed on what gives a catalogue cohesion. One participant 
 
 Although most focus groups didn't dwell long on the temporal nature of the catalogues, one group raised some interesting concerns about the roles of traditional print catalogues and what might be lost if they take on a wholly digital format. Several members of this focus group were interested in exhibitions and art interpretation from a historiographical approach. For their work, print catalogues capture valuable information about a moment in history and how art was being discussed and displayed at that time:
 
-> I do research with catalogues a lot because I look at exhibitions theoretically, like as landscapes. So I do end up spending a lot of time in catalogues because that's the best way to reach that - the ephemera of what an exhibition was — especially if it includes like notes on like programming and stuff.
+> I do research with catalogues a lot because I look at exhibitions theoretically, like as landscapes. So I do end up spending a lot of time in catalogues because that's the best way to reach that—the ephemera of what an exhibition was—especially if it includes like notes on like programming and stuff.
 
 \ 
 
-> One of the things that museums do that's really important is that they can create really pivotal cultural moments that actually do shift art historical dialogue or do shift cultural dialogue or do shift popular culture movements. And if museums stop producing catalogs and they stop documenting what those events were like, then we lose them, we lose them to history.
+> One of the things that museums do that's really important is that they can create really pivotal cultural moments that actually do shift art historical dialogue or do shift cultural dialogue or do shift popular culture movements. And if museums stop producing catalogues and they stop documenting what those events were like, then we lose them, we lose them to history.
 
 Another participant who researches how Native American art has been displayed and interpreted through history said that print catalogues capture important information about a specific moment in time, and these details are likely to be lost in an online catalogue that is continually updated with new language and images. A conservator raised a similar question regarding the catalogues' permanence:
 

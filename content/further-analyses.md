@@ -71,7 +71,7 @@ Email survey participants were asked to search for and use a variety of specific
 
 {{< q-figure id="chart-29" >}}
 
-Both the NGA and PMA group their tools in a single spot, which appealed to participants in the focus groups. The NGA also clearly labels the tools with text, while the PMA uses ScreenTips to explain the function of their tool icons. These conventions result in a slightly less streamlined design (for example, compared to the AIC's discreet grey icons) but quicker navigation for users.
+Both the NGA and PMA group their tools in a single spot, which appealed to participants in the focus groups. The NGA also clearly labels the tools with text, while the PMA uses ScreenTips to explain the function of their tool icons. These conventions result in a slightly less streamlined design (for example, compared to the AIC's discreet gray icons) but quicker navigation for users.
 
 {{< q-figure id="screenshot-pma-01" >}}
 
