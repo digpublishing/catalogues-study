@@ -75,11 +75,11 @@ figure_list:
     description: "Users’ Ratings of Catalogue Layout and Navigation"
 
   - id: "screenshot-nga-01"
-    src: screenshot-nga-01.jpg
+    src: screenshot-nga-01.png
     caption: "Navigational breadcrumb in NGA’s *Dutch Paintings* catalogue"
   
   - id: "screenshot-getty-01"
-    src: screenshot-getty-01.jpg
+    src: screenshot-getty-01.png
     caption: "“Contents” button on *Roman Mosaics* homepage"  
     
   - id: "heatmap-aic"
@@ -177,15 +177,15 @@ figure_list:
     description: "How easy/difficult is it to...?"
     
   - id: "screenshot-pma-01"
-    src: screenshot-pma-01.jpg
+    src: screenshot-pma-01.png
     caption: "PMA *Johnson* catalogue with tool menu at right"
   
   - id: "screenshot-nga-02"
-    src: screenshot-nga-02.jpg
+    src: screenshot-nga-02.png
     caption: "NGA *Dutch Paintings* catalogue with tools to the right of image and below"
     
   - id: "screenshot-aic-01"
-    src: screenshot-aic-01.jpg
+    src: screenshot-aic-01.png
     caption: "AIC’s Matisse catalogue with grey menu bar at top"
   
   - id: "chart-30"
@@ -198,4 +198,20 @@ figure_list:
   
   - id: "chart-32"
     src: charts/chart-32.png
-    description: "Email Survey Responses by Institution"          
+    description: "Email Survey Responses by Institution" 
+    
+  - id: "table-07"
+    src: tables/table-07.html
+    media_type: table
+    description: "Analytics for Measuring Reach and Engagement"
+    
+  - id: "table-08"
+    src: tables/table-08.html
+    media_type: table
+    description: "Analytics for Usability and Performance"
+    
+  - id: "table-09"
+    src: tables/table-09.html
+    media_type: table
+    description: "Analytics for Measuring Value to Audiences"
+           
