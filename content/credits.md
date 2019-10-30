@@ -15,20 +15,20 @@ Greg Albers, Digital Publications Manager, Getty Publications<br />
 Kara Kirk, Publisher, Getty Publications
 
 **National Gallery of Art**<br />
-Emily Zoss, <br />
+Emily Zoss, Managing Editor for the Permanent Collection<br />
 Emiko Usui,
 
 **Philadelphia Museum of Art**<br />
-Katie Reilly, William T. Ranney Director of Publishing
+Katie Reilly, The William T. Ranney Director of Publishing
 
 **Rockman et al**<br />
-Claire Quimby, Research Associate<br />
-Camellia Sanford-Dolly, Senior Researcher<br />
-Julia Li, Research Associate
+Claire Quimby, Research Lead<br />
+Camellia Sanford-Dolly<br />
+Julia Li
 
 ## Production
 
-The online, PDF and e-book editions of this report were produced using [Quire](https://gettypubs.github.io/quire/), a multiformat publishing framework currently being developed by the Getty. Request access for your own projects at https://bit.ly/quire-beta.
+The online, PDF and e-book editions of this report were produced using Quire, a multiformat publishing framework currently being developed by the Getty. Learn more and request access to the beta at https://gettypubs.github.io/quire/.
 
 The online edition is hosted on GitHub at https://digpublishing.github.io/catalogues-study, and the code and content repository can be found at https://github.com/digpublishing/catalogues-study.
 
@@ -42,6 +42,5 @@ The online edition is hosted on GitHub at https://digpublishing.github.io/catalo
 {{< q-class "cc-logo--print" >}}
 ![CC BY icon](/img/cc-by--black.png)
 {{< /q-class >}}
-
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
