@@ -1,5 +1,5 @@
 ---
-title: About the Digital Catalogues
+title: The Museums and Catalogues
 weight: 30
 type: page
 ---
