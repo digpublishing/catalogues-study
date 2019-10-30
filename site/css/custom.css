@@ -114,13 +114,17 @@
     display: none;
   }
 }
-#cover .quire-page__content img {
+.partner-logos img {
   max-height: 5.5rem;
   display: inline-block;
   margin: 2rem 1rem;
 }
-#cover .quire-page__content img:first-child {
+.partner-logos img:first-child {
   margin-left: 0;
+}
+.partner-logos img:last-child {
+  padding-left: 2rem;
+  border-left: 1px solid #87857b; 
 }
 
 /* Center figure captions */
@@ -153,8 +157,8 @@
 #findings .quire-page__content ul li::before {
   content: "";
 }
-#findings .quire-page__content ul p:first-child {
-  margin-bottom: 0;
+#findings .quire-page__content ul p {
+  margin-bottom: .35rem;
 }
 #findings .quire-page__content ul p:first-child strong {
   color: #990099;
