@@ -14,7 +14,7 @@ Included in this study:
 
 - [*Matisse Paintings, Works on Paper, Sculpture, and Textiles at the Art Institute of Chicago*](https://www.artic.edu/digital-publications/matisse-at-the-art-institute-of-chicago)
 
-- [*Monet Paintings and Drawings at the Art Institute of Chicago*](https://www.artic.edu/digital-publications/matisse-at-the-art-institute-of-chicago)
+- [*Monet Paintings and Drawings at the Art Institute of Chicago*](https://publications.artic.edu/monet/reader/paintingsanddrawings)
 
 ---
 
