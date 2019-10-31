@@ -9,8 +9,6 @@ type: page
 
 Jump to
 
-- [Research Plan](#research-plan)
-
 - [Analytics Review](#analytics-review)
 
 - [Pop-Up Survey](#pop-up-survey)
@@ -20,10 +18,6 @@ Jump to
 - [Focus Groups](#focus-groups)
 
 {{< /q-class >}}
-
----
-
-## Research Plan
 
 ---
 
