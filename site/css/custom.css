@@ -126,6 +126,11 @@
   padding-left: 2rem;
   border-left: 1px solid #87857b; 
 }
+@media print {
+  .partner-logos img {
+    max-height: 4.5rem;
+  }
+}
 
 /* Center figure captions */
 .content figure .quire-figure__caption {
@@ -263,6 +268,15 @@ td.hglt-8 {
 .content table th[rowspan] {
   vertical-align: middle; 
 }
+/* Fixes the border color on a table that crosses to a second page when output with Prince XML */
+@media print {
+  .quire-page__content .container .content table tbody td.print-purple-bottom-border {
+    border-bottom-color: #990099;
+  }
+  .quire-page__content .container .content table tbody td.print-purple-top-border {
+    border-top-color: #990099;
+  }
+}
 
 /* Style special in-page navigation links for appendices */
 .page-links {
@@ -344,5 +358,12 @@ td.hglt-8 {
   }
   .quire-page--splash {
     page: splash;
+  }
+}
+
+/* To hide cover image caption on credits page in online edition */
+@media screen {
+  .not-online {
+    display: none;
   }
 }
