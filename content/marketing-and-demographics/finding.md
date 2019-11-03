@@ -1,5 +1,6 @@
 ---
 title: How are users finding the catalogues?
+short_title: How are users finding catalogues?
 weight: 150
 type: page
 ---

@@ -1,5 +1,6 @@
 ---
 title: What are users’ first impressions of the catalogues?
+short_title: What are users’ first impressions?
 weight: 210
 type: page
 ---

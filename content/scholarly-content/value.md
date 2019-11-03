@@ -1,5 +1,6 @@
 ---
 title: What special value do digital catalogues hold for users?
+short_title: What value do digital catalogues hold?
 weight: 340
 type: page
 ---

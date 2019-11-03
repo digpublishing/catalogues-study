@@ -1,5 +1,6 @@
 ---
 title: Do users have confidence in the catalogues’ scholarship?
+short_title: Do users have confidence in scholarship?
 weight: 330
 type: page
 ---

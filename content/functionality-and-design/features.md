@@ -1,5 +1,6 @@
 ---
 title: Which special digital features are most appreciated by catalogue users?
+short_title: Which features are most appreciated?
 weight: 230
 type: page
 ---

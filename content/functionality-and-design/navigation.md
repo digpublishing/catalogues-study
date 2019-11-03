@@ -1,5 +1,6 @@
 ---
 title: Do users understand how to navigate the catalogues and find content of interest?
+short_title: Do users understand how to navigate?
 weight: 220
 type: page
 ---

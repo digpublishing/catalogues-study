@@ -1,5 +1,6 @@
 ---
 title: What kinds of content and information are most useful to users?
+short_title: What content is most useful?
 weight: 320
 type: page
 ---

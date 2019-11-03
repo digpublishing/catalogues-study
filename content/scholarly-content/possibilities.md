@@ -1,5 +1,6 @@
 ---
 title: What other possibilities could digital platforms explore to serve users?
+short_title: What possibilities could platforms explore?
 weight: 350
 type: page
 ---

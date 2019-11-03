@@ -1,5 +1,6 @@
 ---
 title: How can the catalogues be marketed more effectively?
+short_title: How can the catalogues be marketed?
 weight: 160
 type: page
 ---
