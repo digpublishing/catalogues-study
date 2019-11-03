@@ -26,7 +26,7 @@ Focus group participants had strong expectations that digital catalogues would b
 
 \
 
-> It feels like we don't have to have like a cutoff of what it has to look like in its finality. Like I wonder if digital catalogues should ever have like a final form. I think that's one of the limitations about thinking about past catalogues rather than some like new form of knowledge sharing.
+> It feels like we don't have to have a cutoff of what it has to look like in its finality. I wonder if digital catalogues should ever have a final form. I think that's one of the limitations about thinking about past catalogues rather than some new form of knowledge sharing.
 
 ## Digital catalogues can reach wider audiences
 
@@ -36,8 +36,8 @@ One participant pointed out that print museum catalogues have a smaller audience
 
 \
 
-> I know museums and galleries have been trying to get mobile for the last 30, 40 years. They've been trying to reach out to a new audience...This is just a natural next step forward. And I think accessibility is key.
+> I know museums and galleries have been trying to get mobile for the last thirty, forty years. They've been trying to reach out to a new audience...This is just a natural next step forward. And I think accessibility is key.
 
-Not only does the online environment extend these institutions' reach among general audiences in the U.S., but it provides opportunities to serve audiences in other countries as well. One participant who works in west Africa spoke passionately about how these kinds of online, open-access resources could be extremely valuable to students and scholars in developing nations who have less access to libraries or databases such as JSTOR:
+Not only does the online environment extend these institutions' reach among general audiences in the United States, but it provides opportunities to serve audiences in other countries as well. One participant who works in West Africa spoke passionately about how these kinds of online, open-access resources could be extremely valuable to students and scholars in developing nations who have less access to libraries or databases such as JSTOR:
 
 > So what I view to be an amazing strength of all four of the projects we've looked at is that they are something that someone can look at on a smartphone, which is way more widely used and available among university students who I've met abroad than books in a library or articles that exist behind databases that are pay-based.

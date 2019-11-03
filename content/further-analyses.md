@@ -29,7 +29,7 @@ Jump to
 
 ## Users' Relationships to the Museum — Breakdown by Institution
 
-According to pop-up survey results, the AIC catalogues appear to be receiving more traffic from their members and staff than the NGA, where 63% said they had no affiliation with the institution. Due to the small sample size of PMA respondents, it is difficult to draw any conclusions about the makeup of their visitors from the pop-up survey data.
+According to pop-up survey results, the AIC catalogues appear to be receiving more traffic from their members and staff than those of the NGA, where 63% said they had no affiliation with the institution. Due to the small sample size of PMA respondents, it is difficult to draw any conclusions about the makeup of their visitors from the pop-up survey data.
 
 {{< q-figure id="chart-27" >}}
 
@@ -37,7 +37,7 @@ According to pop-up survey results, the AIC catalogues appear to be receiving mo
 
 ## Catalogue Layout and Navigation Scores — Breakdown by Institution
 
-Email survey respondents were asked to provide overall ratings on the catalogue they reviewed on its clarity of layout and ease of navigation. All four catalogues reviewed received fairly high scores, with no significant differences between them. This consistency in scores despite the variation in the catalogues suggests that users are adaptable to a range of designs.
+Email survey respondents were asked to rate the catalogue they reviewed on its clarity of layout and ease of navigation. All four catalogues reviewed received fairly high scores, with no significant differences between them. This consistency in scores despite the variation in the catalogues suggests that users are adaptable to a range of designs.
 
 {{< q-figure id="chart-28" >}}
 
@@ -53,11 +53,11 @@ Knowing where visitors land first when they enter the catalogues is important fo
 
 ## Top Pages Viewed in the Digital Catalogues
 
-Considering individual artworks are driving many users' interest in these digital catalogues, the team asked whether traffic to particular artwork entries is dominating their sites' overall traffic. A glance at the top ten pages for each catalogue shows this is not the case. At the most, a single object entry might account for up to 5% of the total pageviews received by a catalogue, and this is true only of the Getty's *Roman Mosaics* catalogue. This catalogue has fewer art entries overall, so single artworks necessarily receive a higher percentage of the traffic. In the other catalogues, single artworks only account for up to 3% of the total pageviews logged. Instead, the catalogues' homepages generally receive the most traffic, although significantly less for the NGA's catalogue, owing to its unique structure (see [The Unique Structure of the NGA's Online Editions](#the-unique-structure-of-the-nga-s-online-editions) below).
+Considering individual artworks are driving many users' interest in these digital catalogues, the team asked whether traffic to particular artwork entries is dominating their sites' overall traffic. A glance at the top ten pages for each catalogue shows this is not the case. At the most, a single object entry might account for up to 5% of the total pageviews received by a catalogue, and this is true only of the Getty's *Roman Mosaics* catalogue. This catalogue has fewer art entries overall, so single artworks necessarily receive a higher percentage of the traffic. In the other catalogues, single artworks only account for up to 3% of the total pageviews logged. Instead, the catalogues' homepages generally receive the most traffic, although significantly less for the NGA's catalogue, owing to its unique structure. (See [The Unique Structure of the NGA's Online Editions](#the-unique-structure-of-the-nga-s-online-editions) below.)
 
 {{< q-figure id="table-05" class="table" >}}
 
---
+---
 
 ## Top Referring Sites
 
@@ -65,9 +65,9 @@ Considering individual artworks are driving many users' interest in these digita
 
 ---
 
-## Tool Findability — Differences Between Catalogues
+## Tool Findability — Differences between Catalogues
 
-Email survey participants were asked to search for and use a variety of specific tools while exploring their assigned catalogue, and report back on both the ease of finding these tools and the ease of using them. For a variety of tools (but not all), the PMA's *Johnson* catalogue and the NGA's *Dutch Paintings* tended to perform better while the AIC's *Matisse* catalogue and the Getty's *Roman Mosaics* catalogue performed slightly worse.
+Email survey participants were asked to search for and use a variety of specific tools while exploring their assigned catalogue, and report back on the ease of both finding and using them. For a variety of tools (but not all), the PMA's *Johnson* catalogue and the NGA's *Dutch Paintings* tended to perform slightly better than the AIC's *Matisse* catalogue and the Getty's *Roman Mosaics*.
 
 {{< q-figure id="chart-29" >}}
 
@@ -83,7 +83,7 @@ Both the NGA and PMA group their tools in a single spot, which appealed to parti
 
 ## The Unique Structure of the NGA's Online Editions
 
-Unlike the other catalogues in our study, the NGA's *Dutch Paintings* catalogue and all of their Online Editions incorporate art object pages from the museum's online collection as artwork entry pages in the catalogue, essentially allowing the pages to do double duty for the catalogue and online collection. This structure has a number of implications for the catalogue, its visitation, and how Google Analytics tracks traffic to the catalogue. The collections pages on the NGA website receive large numbers of visitors, which Google Analytics therefore interprets as catalogue traffic, regardless of whether visitors are aware of the catalogue. As a result, the *Dutch Paintings* catalogue appears to be receiving a much higher level of traffic than the other catalogues in this study (see [How much traffic are the catalogues receiving?](/marketing-and-demographics/traffic/)). Its homepage, however, receives a much smaller percentage of traffic in relation to other pages in the catalogue and serves as the landing page (entry point) for only 7% of catalogue visitors. (See [Top Pages Viewed](#top-pages-viewed-in-the-digital-catalogues) and [Top Landing Pages](#top-landing-pages-for-the-catalogues) above.)
+Unlike the other catalogues in our study, the NGA's *Dutch Paintings* catalogue and all of its Online Editions incorporate art object pages from the museum's online collection as artwork entry pages in the catalogue, essentially allowing the pages to do double duty for the catalogue and online collection. This structure has a number of implications for the catalogue, its visitation, and how Google Analytics tracks traffic to the catalogue. The collection pages on the NGA website receive large numbers of visitors, which Google Analytics therefore interprets as catalogue traffic, regardless of whether visitors are aware of the catalogue. As a result, the *Dutch Paintings* catalogue appears to be receiving a much higher level of traffic than the other catalogues in this study. (See [How much traffic are the catalogues receiving?](/marketing-and-demographics/traffic/)) Its homepage, however, receives a much smaller percentage of traffic in relation to other pages in the catalogue and serves as the landing page (entry point) for only 7% of catalogue visitors. (See [Top Pages Viewed](#top-pages-viewed-in-the-digital-catalogues) and [Top Landing Pages](#top-landing-pages-for-the-catalogues) above.)
 
 {{< q-figure id="chart-30" >}}
 

@@ -19,7 +19,7 @@ class: page-one
 
 - **Interest in specific artworks and high-quality images are strong drivers of catalogue traffic.**
 
-    40% of current users surveyed via a pop-up survey said they came to the catalogue to research a particular object, and focus group participants of target audience members indicated similar motivations. Participants were also very concerned with finding high-resolution images of artworks and valued image-viewing tools above many of the other catalogue features.
+    In a pop-up survey, 40% of current users said they came to the catalogue to research a particular object, and focus group participants of target audience members indicated similar motivations. Participants were also very concerned with finding high-resolution images of artworks and valued image-viewing tools above many of the other catalogue features.
     
     *See: [Why do users visit the catalogues?](/marketing-and-demographics/why/) and [What kinds of content and information are most useful to users?](/scholarly-content/utility/)*
 
@@ -31,7 +31,7 @@ class: page-one
 
 - **Users value the scholarship of the catalogues, with only a few reservations.**
 
-    Participants indicated high levels of trust in the museums producing these catalogues and particularly valued the inside information these institutions can provide on object provenance, conservation, and other technical information. Some users suspect that scholarly interpretive essays contained within the catalogues may contain museum biases, but these suspicions could be reduced by calling attention to the peer-review process where applicable and to clearly indicated authorship.
+    Participants indicated high levels of trust in the museums producing these catalogues and particularly valued the inside information these institutions can provide on object provenance, conservation, and other technical matters. Some users suspect that scholarly interpretive essays contained within the catalogues may include museum biases, but these suspicions could be reduced by calling attention to the peer-review process where applicable and to clearly indicate authorship.
     
     *See: [Do users have confidence in the catalogues’ scholarship?](/scholarly-content/confidence/)*
 
@@ -61,12 +61,12 @@ class: page-one
 
 - **Digital catalogues are valued for their ability to incorporate new information as research advances and for their potential to reach wider audiences.**
 
-    Participants liked that the catalogues could be updated as new scholarship is generated, and expressed the hope that museums would keep information current. Users also deeply appreciate that the catalogues are being offered as open access publications, putting information in the hands of wider audiences in the U.S. and abroad.
+    Participants liked that the catalogues could be updated as new scholarship is generated, and expressed the hope that museums would keep information current. Users also deeply appreciate that the catalogues are being offered as open access publications, putting information in the hands of wider audiences in the United States and abroad.
     
     *See: [What special value do digital catalogues hold for users?](/scholarly-content/value/)*
 
 - **Users would like to see museums stretch the possibilities of digital publishing.**
 
-    Participants were excited by what the catalogues have accomplished while also envisioning ambitious new directions in terms of catalogue interactivity and connectivity. They requested tools that would allow researchers to add and curate their own information and engage in scholarly dialogue with one another. Users would also like to see museums engage with each other in an online environment by linking their resources and building tools or publications that cross institutional boundaries.
+    Participants were excited by what the catalogues have accomplished while also envisioning ambitious new directions of catalogue interactivity and connectivity. They requested tools that would allow researchers to add and curate their own information and engage in scholarly dialogue with one another. Users would also like to see museums engage with each other in an online environment by linking their resources and building tools or publications that cross institutional boundaries.
     
     *See: [What other possibilities could digital platforms explore to serve users?](/scholarly-content/possibilities/)*

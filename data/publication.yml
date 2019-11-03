@@ -15,7 +15,7 @@ reading_line:
 short_title:
 
 description:
-  one_line: A cross-instutional user study of online museum collection catalogues
+  one_line: A cross-institutional user study of online museum collection catalogues
   full: 
 
 # ------------------------------------------------------------------------------
@@ -31,7 +31,6 @@ identifier:
 
 publisher:
   - name: Art Institute of Chicago
-    location: Chicago
     url: https://www.artic.edu/
     logo: logo-aic.png
   - name: J. Paul Getty Museum
@@ -43,7 +42,6 @@ publisher:
     url: https://www.nga.gov
     logo: logo-nga.png
   - name: Philadelphia Museum of Art
-    location: Philadelphia
     url: https://www.philamuseum.org/
     logo: logo-pma.png
   - name: Rockman et al

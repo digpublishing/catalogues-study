@@ -25,7 +25,7 @@ figure_list:
   - id: "chart-06"
     src: charts/chart-06.png
     description: "Age of Visitors"
-    caption: "(AIC’s Monet catalogue is not currently collecting demographic analytics)"
+    caption: "(AIC’s *Monet* catalogue is not currently collecting demographic analytics)"
       
   - id: "chart-07"
     src: charts/chart-07.png
@@ -92,7 +92,7 @@ figure_list:
   
   - id: "heatmap-nga"
     src: heatmap-nga.jpg
-    caption: "Heatmap of *Dutch Paintings of the 17<sup>th</sup> Century* homepage indicating where users are inclined to click first"
+    caption: "Heatmap of *Dutch Paintings of the Seventeenth Century* homepage indicating where users are inclined to click first"
     
   - id: "heatmap-pma"
     src: heatmap-pma.jpg
@@ -186,7 +186,7 @@ figure_list:
     
   - id: "screenshot-aic-01"
     src: screenshot-aic-01.png
-    caption: "AIC’s Matisse catalogue with grey menu bar at top"
+    caption: "AIC *Matisse* catalogue with gray menu bar at top"
   
   - id: "chart-30"
     src: charts/chart-30.png

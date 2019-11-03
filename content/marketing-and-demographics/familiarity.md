@@ -8,4 +8,4 @@ Digital catalogues have become a familiar resource to the target audience reache
 
 {{< q-figure id="chart-11" >}}
 
-Focus group participants also spoke at length about the many ways these catalogues could take advantage of their digital format and expressed high expectations for the catalogues' technological bells and whistles. Their comments suggest that not only are these audiences familiar with digital catalogues, they have begun to see certain advanced features as the new normal for their research. (For additional information see [What special value do digital catalogues hold for users?](/scholarly-content/value/))
+Focus group participants also spoke at length about the many ways these catalogues could take advantage of their digital format and expressed high expectations for the catalogues' technological bells and whistles. Their comments suggest that not only are these audiences familiar with digital catalogues, they have begun to see certain advanced features as the new normal for their research. (For additional information, see [What special value do digital catalogues hold for users?](/scholarly-content/value/))

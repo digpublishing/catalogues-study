@@ -5,7 +5,7 @@ type: page
 ---
 
 
-Producing digital catalogues is a time- and resource-intensive activity. Through this study, we have produced a wealth of data that suggest digital catalogues are a worthwhile endeavor for museums. These publications reach thousands of visitors, are respected for their scholarly merit, and offer significant advantages to users over print publications through the amount of information they make available and the tools they provide for navigating and working with that information. This study has also helped our team identify some of the metrics that work best for measuring the success of digital catalogues. We found that certain metrics of success could be gathered with relative ease using web analytics or close-ended questions on pop-up surveys. In other cases, the rich qualitative data provided through focus group conversations and open-ended survey questions provided deeper insights that require more effort to digest. Conducting this study also highlighted the ways that the definition of success might vary depending on contextual factors and each museum's goals for their digital publications.
+Producing digital catalogues is a time- and resource-intensive activity. Through this study, we have produced a wealth of data that suggest digital catalogues are a worthwhile endeavor for museums. These publications reach thousands of visitors, are respected for their scholarly merit, and offer significant advantages to users over print publications through the amount of information they make available and the tools they provide for navigating and working with that information. This study has also helped our team identify some of the metrics that work best for measuring the success of digital catalogues. We found that certain metrics of success could be gathered with relative ease using web analytics or close-ended questions on pop-up surveys. In other cases, the rich qualitative data provided through focus group conversations and open-ended survey questions provided deeper insights that require more effort to digest. Conducting this study also highlighted the ways that the definition of success might vary depending on contextual factors and each museum's goals for its digital publications.
 
 ## Measuring Reach and Engagement
 
@@ -13,7 +13,7 @@ With careful interpretation, analytics data can provide many quantitative measur
 
 - A catalogue's performance in a previous time period (e.g., How did the catalogue do in the first month of its launch, versus after a recent marketing push?)
 
-- The performance of a comparable catalogue or resource on the museum's website (e.g., Is the catalogue receiving similar traffic to one featuring a very well-known artist? How does traffic to the museum's collections pages compare to traffic to the catalogue?)
+- The performance of a comparable catalogue or resource on the museum's website (e.g., Is the catalogue receiving similar traffic to one featuring a very well-known artist? How does traffic to the museum's collection pages compare to traffic to the catalogue?)
 
 - The reach of a similar print publication (e.g., How many copies did a comparable print publication sell in the first year, and how does this compare to the number of engaged visitors the digital catalogue received in that time period?)
 

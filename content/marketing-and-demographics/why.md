@@ -4,7 +4,7 @@ weight: 140
 type: page
 ---
 
-A key question for the team was whether users come to the catalogues because they are interested in the overall topic of the catalogue (e.g., Matisse, seventeenth-century Dutch painting) or if they are more likely to end up in the catalogues in their search for information on specific artworks. The pop-up survey shows that the latter is the stronger driving force, accounting for 40% of participants. Only 8% of participants said their visit was driven by a topic interest.
+A key question for the team was whether users come to the catalogue because they are interested in the overall topic (e.g., Matisse, seventeenth-century Dutch painting) or if they are more likely to end up there while searching for information on specific artworks. The pop-up survey shows that the latter is the stronger driving force, accounting for 40% of participants. Only 8% of participants said their visit was driven by a topic interest.
 
 {{< q-figure id="chart-08" >}}
 
@@ -16,7 +16,7 @@ That being said, one focus group participant commented that she usually turns to
 
 > So when I go to print catalogues, I’m looking for what’s been written most recently about a certain work of art. And also their bibliography that goes along with it so I can get the most up-to-date info that I can. I can imagine using digital catalogues much in the same way. And then letting the individual images that I’m looking for kind of lead me to the rest of the content.
 
-Pop-up survey participants also wrote in additional reasons for visiting the catalogues, such as planning a visit to the museum, following up after a visit to the museum, and interest in digital catalogues as a resource (including several individuals who arrived at the catalogues via links from the [final report of the Online Scholarly Catalogue Initiative (OSCI)](https://www.getty.edu/publications/osci-report/)).
+Pop-up survey participants also wrote in additional reasons for visiting the catalogues, such as planning a visit to the museum, following up after a visit to the museum, and interest in digital catalogues as a resource (including several individuals who arrived at the catalogues via links from the [ OSCI final report](https://www.getty.edu/publications/osci-report/)).
 
 Thirteen percent of the pop-up survey participants said they came to the catalogues seeking information for teaching purposes, and this aligned with focus group discussions as well. When asked how they could picture using the catalogues for their work, focus group participants repeatedly talked about teaching with the catalogues, and in a variety of ways:
 
@@ -28,7 +28,7 @@ Thirteen percent of the pop-up survey participants said they came to the catalog
 
 \
 
-> ...I think a lot as somebody who teaches. Part of it is just grabbing images. Do you have big images I can grab immediately for a PowerPoint?
+> I think a lot as somebody who teaches. Part of it is just grabbing images. Do you have big images I can grab immediately for a PowerPoint?
 
 \
 
@@ -40,4 +40,4 @@ The catalogues therefore hold special value for teachers and professors by provi
 ## Notes 
 {{< /q-class >}}
 
-[^1]: For more on this, see [Scholarly Content — What kinds of content and information are most useful to users? ](/scholarly-content/utility/).
+[^1]: For more on this, see [Scholarly Content — What kinds of content and information are most useful to users?](/scholarly-content/utility/).
