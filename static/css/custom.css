@@ -126,6 +126,11 @@
   padding-left: 2rem;
   border-left: 1px solid #87857b; 
 }
+@media print {
+  .partner-logos img {
+    max-height: 4.5rem;
+  }
+}
 
 /* Center figure captions */
 .content figure .quire-figure__caption {
@@ -353,5 +358,12 @@ td.hglt-8 {
   }
   .quire-page--splash {
     page: splash;
+  }
+}
+
+/* To hide cover image caption on credits page in online edition */
+@media screen {
+  .not-online {
+    display: none;
   }
 }

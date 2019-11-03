@@ -44,3 +44,9 @@ The online edition is hosted on GitHub at https://digpublishing.github.io/catalo
 {{< /q-class >}}
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+{{< q-class "not-online" >}}
+
+Cover image: Ferdinand Bol, *An Old Man Reading*, 1642. Etching and drypoint on laid paper, plate: 21 × 16.4 cm, sheet: 22.6 × 17 cm. National Gallery of Art, Washington. Gift of Ruth B. Benedict, 1994.60.5. https://www.nga.gov/collection/art-object-page.75745.html
+
+{{< /q-class >}}
