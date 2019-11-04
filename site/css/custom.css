@@ -367,3 +367,47 @@ td.hglt-8 {
     display: none;
   }
 }
+
+.quire-menu__cite-as p {
+  margin-top: 1rem;
+  font-size: .75rem;
+  line-height: 1.35;
+}
+
+/* Adjust URL breaks in PDF */
+@media print {
+  /* PrinceXML doesn’t seem to support <wbr> embedded in the URLs as a
+  method for suggesting places to break words, instead we're using here
+  the prince-text-replace specialty attribute to insert zero-width-spaces */
+  a[target=_blank] {
+    prince-text-replace: "/" "\200B/"
+                          "~" "\200B~"
+                          "." "\200B."
+                          "," "\200B,"
+                          "-" "\200B-"
+                          "_" "\200B_"
+                          "?" "\200B?"
+                          "#" "\200B#"
+                          "%" "\200B%"
+                          "=" "\200B="
+                          "&" "\200B&"
+                          "+" "\200B+"
+                          ":" "\200B:"
+                          "\200B/\200B/" "//\200B"
+                          "\200B:\200B:" "\200B::"
+                          "com\200B/" "com\FEFF/"
+                          "net\200B/" "net\FEFF/"
+                          "org\200B/" "org\FEFF/"
+                          "culturalvalueproject\200B/" "culturalvalueproject\FEFF/"
+                          "-system\200B/" "-system\FEFF/";
+  }
+
+}
+
+/* Following the same pattern as above, this improves breaking after 
+em dashes */
+@media print {
+  body * {
+    prince-text-replace: "—" "—\200B"
+  }
+}
