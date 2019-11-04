@@ -16,7 +16,7 @@ Kara Kirk, Publisher, Getty Publications
 
 **National Gallery of Art**<br />
 Emily Zoss, Managing Editor for the Permanent Collection<br />
-Emiko Usui, Publisher and Editor in Chief
+Emiko K. Usui, Publisher and Editor in Chief
 
 **Philadelphia Museum of Art**<br />
 Katie Reilly, The William T. Ranney Director of Publishing
@@ -25,6 +25,10 @@ Katie Reilly, The William T. Ranney Director of Publishing
 Claire Quimby, Research Lead<br />
 Camellia Sanford-Dolly<br />
 Julia Li
+
+## Cite As
+
+Quimby, Claire. *Digital Catalogues Study: A Cross-Institutional User Study of Online Museum Collection Catalogues*. Chicago: Art Institute of Chicago, November 2019. <span class="url-string">https:&#47;&#47;digpublishing.github.io/catalogues-study/</span>.
 
 ## Production
 

@@ -32,6 +32,8 @@ The team contracted Rockman et al, an education consulting and research firm wit
 
 ---
 
+**Cite As:** Quimby, Claire. *Digital Catalogues Study: A Cross-Institutional User Study of Online Museum Collection Catalogues*. Chicago: Art Institute of Chicago, November 2019. <span class="url-string">https:&#47;&#47;digpublishing.github.io/catalogues-study/</span>.
+
 Cover image: Ferdinand Bol, *An Old Man Reading*, 1642. Etching and drypoint on laid paper, plate: 21 × 16.4 cm, sheet: 22.6 × 17 cm. National Gallery of Art, Washington. Gift of Ruth B. Benedict, 1994.60.5. https://www.nga.gov/collection/art-object-page.75745.html
 
 {{< /q-class >}}
