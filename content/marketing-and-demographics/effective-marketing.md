@@ -25,7 +25,7 @@ One librarian focus group participant mentioned [Primo](https://www.exlibrisgrou
 
 Another focus group participant expressed a wish for a "central clearinghouse" specifically focused on online catalogues and other digital humanities projects. Other participants echoed this sentiment. One noted that he was unlikely to search through a museum website to find this kind of publication, so having it listed in a clearinghouse was preferable. Another participant agreed:
 
-> I will say even when I specifically know that there is a catalogue I am looking for, it usually takes me about 15—30 minutes to get through the museum’s website to even find something that I know exists somewhere.
+> I will say even when I specifically know that there is a catalogue I am looking for, it usually takes me about 15–30 minutes to get through the museum’s website to even find something that I know exists somewhere.
 
 Marketing through organizations that serve the catalogues' target audience is another option for promoting the catalogues. A conservator who participated in the study listed the Bibliographic Database of the Conservation Information Network ([BCIN](http://www.bcin.ca/)) and the library of the International Centre for the Study of the Preservation and Restoration of Cultural Property ([ICCROM](https://www.iccrom.org/)) as two key sites for locating relevant publications.
 

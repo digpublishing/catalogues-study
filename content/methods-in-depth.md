@@ -86,7 +86,7 @@ Five individuals were recruited from each group for a total of 25 individuals. O
 - text and scholarly content (paying attention to both object entries and stand-alone scholarly essays)
 - special features (variable by catalogue and selected by each institution)
 
-The focus groups themselves were conducted via Zoom videoconferencing, with 4—6 individuals per group. The group discussions were used as an opportunity to debrief on the homework exercises but also to explore further questions on the catalogues' findability, utility for different types of scholarship, and other possibilities that target audiences would like to see the catalogues explore.
+The focus groups themselves were conducted via Zoom videoconferencing, with 4–6 individuals per group. The group discussions were used as an opportunity to debrief on the homework exercises but also to explore further questions on the catalogues' findability, utility for different types of scholarship, and other possibilities that target audiences would like to see the catalogues explore.
 
 - [Focus Group Homework (PDF)](/downloads/instruments/focus-group-homework.pdf)
 

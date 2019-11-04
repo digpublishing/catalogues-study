@@ -85,4 +85,4 @@ One way to address these participants' concerns is to provide archived versions 
 ## Notes
 {{< /q-class >}}
 
-[^1]: Martha Lucy, "Digital Scholarship at the Art Institute of Chicago: The Impressionism and Post-Impressionism Series," *Association of Historians of Nineteenth-Century Art Newsletter* 26, no. 1 (2019): 1—3.
+[^1]: Martha Lucy, "Digital Scholarship at the Art Institute of Chicago: The Impressionism and Post-Impressionism Series," *Association of Historians of Nineteenth-Century Art Newsletter* 26, no. 1 (2019): 1–3.

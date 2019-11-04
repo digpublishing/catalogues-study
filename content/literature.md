@@ -24,15 +24,15 @@ Finally, some bigger-picture questions raised in catalogue reviews were used to 
 
 [^1]: "Museum Catalogues in the Digital Age: A Final Report on the Getty Foundation's Online Scholarly Catalogue Initiative," The Getty Foundation, published 2017, accessed on October 1, 2019, https://www.getty.edu/publications/osci-report.
 
-[^2]: Jennifer Henel, "New Approaches to Old Art: The Launch of NGA Online Editions' *Dutch Paintings of the Seventeenth Century,*" *Visual Arts Research* 43, no. 1 (2017): 8—16.
+[^2]: Jennifer Henel, "New Approaches to Old Art: The Launch of NGA Online Editions' *Dutch Paintings of the Seventeenth Century,*" *Visual Arts Research* 43, no. 1 (2017): 8–16.
 
 [^3]: Design for Context, "John G. Johnson Exhibition, Scholarly Site Requirements & Design Analysis," user study and design report produced for the Philadelphia Museum of Art, March 2, 2017.
 
 [^4]: Duane Degler and Michael Owens, "PMA Johnson Usability Study: Observations and Findings," evaluation report produced for the Philadelphia Museum of Art, December 21, 2017.
 
-[^5]: Laura Mann, "Online Scholarly Catalogues: Insights from OSCI," presentation at Museums and the Web Conference, Los Angeles, California, April 6—9, 2016.
+[^5]: Laura Mann, "Online Scholarly Catalogues: Insights from OSCI," presentation at Museums and the Web Conference, Los Angeles, California, April 6–9, 2016.
 
-[^6]: Jodi Cranston, review of *Italian Paintings of the Thirteenth and Fourteenth Centuries*, by Miklos Boskovits and Jason di Resta, *The Art Bulletin* 99 no. 2 (2017): 186—189, DOI: 10.1080/00043079.2017.1304640
+[^6]: Jodi Cranston, review of *Italian Paintings of the Thirteenth and Fourteenth Centuries*, by Miklos Boskovits and Jason di Resta, *The Art Bulletin* 99 no. 2 (2017): 186–189, DOI: 10.1080/00043079.2017.1304640
 
 [^7]: Jill O'Neill, "Have You Looked at This: NGA Online Editions," *The Scholarly Kitchen,* published October 27, 2014, accessed May 29, 2019, https://scholarlykitchen.sspnet.org/2014/10/27/have-you-looked-at-this-nga-online-editions.
 
