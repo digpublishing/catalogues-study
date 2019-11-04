@@ -6,6 +6,8 @@ type: page
 
 ## Research Team 
 
+This report was commissioned from Rockman et al by the Art Institute of Chicago, J. Paul Getty Museum, National Gallery of Art, and Philadelphia Museum of Art.
+
 **Art Institute of Chicago**<br />
 Lauren Makholm, Assistant Director of Production<br />
 Greg Nosan, Executive Director of Publishing
