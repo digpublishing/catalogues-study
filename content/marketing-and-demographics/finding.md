@@ -9,7 +9,7 @@ Analytics data collected across four catalogues (one from each institution) show
 
 {{< q-figure id="chart-09" >}}
 
-Google Analytics tags a traffic source as "direct" when the user's browser doesn't record any referral information on the session. This could mean the user typed the catalogue url directly into their browser or used a bookmark to access the site. In this case, the user visiting the catalogue is already aware of its existence. However, untagged links from emails, documents (such as PDFs), and mobile apps are also categorized as direct traffic by Google Analytics, which can make this category difficult to interpret. Ensuring that email marketing campaigns use UTM codes to tag links is one way to remove some of the confusion from direct traffic.
+Google Analytics tags a traffic source as "direct" when the user's browser doesn't record any referral information on the session. This could mean the user typed the catalogue url directly into their browser or used a bookmark to access the site. In this case, the user visiting the catalogue is already aware of its existence. However, untagged links from emails, documents (such as PDFs), and mobile apps are also categorized as direct traffic by Google Analytics, which can make this category difficult to interpret. Ensuring that email marketing campaigns use Urchin Tracking Module (UTM) codes to tag links is one way to remove some of the confusion from direct traffic.
 
 Google Analytics tags a traffic source as "organic search" when a user arrived after using a search engine such as Google or Bing. These users may be arriving at the digital catalogues after conducting a search for an artwork or other topic of interest.
 
