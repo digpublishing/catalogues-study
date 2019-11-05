@@ -89,17 +89,17 @@ resource_link:
     name: PDF
     media_type: application/pdf
     link_relation: alternate
-    url: /downloads/output.pdf
+    url: /downloads/digital-catalogues-study--2019.pdf
   - type: other-format
     name: EPUB
     media_type: application/epub+zip
     link_relation: alternate
-    url: /downloads/output.epub
+    url: /downloads/digital-catalogues-study--2019.epub
   - type: other-format
     name: Kindle/MOBI
     media_type: vnd.amazon.mobi8-ebook
     link_relation: alternate
-    url: /downloads/output.mobi
+    url: /downloads/digital-catalogues-study--2019.mobi
   # - type: footer-link
   #   name: Credits
   #   link_relation: about
