@@ -61,7 +61,7 @@ Considering individual artworks are driving many users' interest in these digita
 
 ## Top Referring Sites
 
-{{< q-figure id="table-06" class="table" >}}
+{{< q-figure id="table-06" class="table print-break-ok" >}}
 
 ---
 
