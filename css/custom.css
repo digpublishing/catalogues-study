@@ -277,6 +277,14 @@ td.hglt-8 {
     border-top-color: #990099;
   }
 }
+/* Break long Top Referring Sites table */
+@media print {
+  .quire-figure.print-break-ok {
+    page-break-inside: auto;
+    -moz-column-break-inside: auto;
+    break-inside: auto;
+  }
+}
 
 /* Style special in-page navigation links for appendices */
 .page-links {
